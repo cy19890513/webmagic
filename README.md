@@ -12,4 +12,4 @@ Tricks:
 The well-seller product: less than 100 units in stock, shown on the page like "70 in stock". 
 The common product: more than 100 units in stock, shown on the page just "in stock".
 
-Finished results is [here](../project/output.txt)
+Finished results is [here](../master/project/output.txt)
