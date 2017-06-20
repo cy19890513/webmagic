@@ -1,0 +1,3766 @@
+17-05-13 22:54:36,298 INFO  us.codecraft.webmagic.Spider(Spider.java:306) ## Spider www.adafruit.com started!
+get page: https://www.adafruit.com
+l1   Ultimaker 2+ 3D Printer <https://www.adafruit.com/product/2673>
+l2  2 IN STOCK
+l1   Othermill Pro - Compact Precision CNC + PCB Milling Machine 
+<https://www.adafruit.com/product/2323>
+l2  7 IN STOCK
+l1   Type A Machines Series 1 Pro 3D Printer <https://www.adafruit.com/product/2412>
+l2  2 IN STOCK
+l1   PRINTinZ Skin for Flashforge - 152mm x 232mm 
+<https://www.adafruit.com/product/3097>
+l2  10 IN STOCK
+l1   PRINTinZ Skin for Micro 3D Printer - 116mm x 116mm 
+<https://www.adafruit.com/product/3095>
+l2  12 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.8mm Diameter 
+<https://www.adafruit.com/product/2075>
+l2  52 IN STOCK
+l1   Carbide PCB Drill Bit - 0.7mm <https://www.adafruit.com/product/2119>
+l2  11 IN STOCK
+l1   Carbide PCB Drill Bit - 1.1mm <https://www.adafruit.com/product/2121>
+l2  2 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.5mm Diameter 
+<https://www.adafruit.com/product/2072>
+l2  93 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.7mm Diameter 
+<https://www.adafruit.com/product/2074>
+l2  35 IN STOCK
+l1   PLA Filament for 3D Printers - 1.75mm Diameter - Black - 1KG 
+<https://www.adafruit.com/product/2060>
+l2  16 IN STOCK
+l1   Othermill Precision Fixturing and Toe Clamp Set 
+<https://www.adafruit.com/product/3080>
+l2  3 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Midnight Black - 0.5Kg 
+<https://www.adafruit.com/product/1690>
+l2  58 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.6mm Diameter 
+<https://www.adafruit.com/product/2073>
+l2  9 IN STOCK
+l1   Blue Masking Tape for 3D Printing Plates - 60 Yards 
+<https://www.adafruit.com/product/2416>
+l2  8 IN STOCK
+l1   PLA/PHA Filament for 3D Printers - 1.75mm Diameter - 1KG - Silver 
+<https://www.adafruit.com/product/2063>
+l2  1 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Snow White - 0.5 Kg 
+<https://www.adafruit.com/product/1691>
+l2  7 IN STOCK
+l1   PLA Filament for 3D Printers - 1.75mm Natural Translucent - 1KG 
+<https://www.adafruit.com/product/2451>
+l2  22 IN STOCK
+l1   PLA Filament for 3D Printers - 1.75mm Diameter - Green - 1KG 
+<https://www.adafruit.com/product/2150>
+l2  1 IN STOCK
+l1   PLA Filament for 3D Printers - 1.75mm Diameter - Purple Translucent - 1KG 
+<https://www.adafruit.com/product/2449>
+l2  5 IN STOCK
+l1   PLA/PHA Filament for 3D Printers - 1.75mm Diameter - Teal - 1KG 
+<https://www.adafruit.com/product/3069>
+l2  4 IN STOCK
+l1   PRINTinZ Flexible 3D Printer Plate for Printrbot - 168mm x 237mm 
+<https://www.adafruit.com/product/2233>
+l2  15 IN STOCK
+l1   PLA Filament for 3D Printers - 1.75mm Diameter - Blue - 1KG 
+<https://www.adafruit.com/product/2146>
+l2  13 IN STOCK
+l1   AstroBox pack - Includes Raspberry Pi 2, Model B 
+<https://www.adafruit.com/product/2391>
+l2  5 IN STOCK
+l1   ABS Filament for 3D Printers - 1.75mm Diameter - White - 1KG 
+<https://www.adafruit.com/product/2069>
+l2  3 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Violet Grape - .50 Kg 
+<https://www.adafruit.com/product/2564>
+l2  2 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Liquid Hot Lava - .50 Kg 
+<https://www.adafruit.com/product/2443>
+l2  6 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Sterling Silver - 0.5Kg 
+<https://www.adafruit.com/product/2108>
+l2  5 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Semitranslucent White - .50 Kg 
+<https://www.adafruit.com/product/2445>
+l2  6 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Glow in the Dark - 0.5 Kg 
+<https://www.adafruit.com/product/2655>
+l2  2 IN STOCK
+l1   ABS Filament for 3D Printers - 1.75mm Diameter - Silver - 1KG 
+<https://www.adafruit.com/product/2071>
+l2  3 IN STOCK
+l1   Proto-Pasta - 1.75mm Magnetic Iron Filament 
+<https://www.adafruit.com/product/2797>
+l2  2 IN STOCK
+l1   Astroprint Vinyl Sticker! <https://www.adafruit.com/product/2389>
+l2  11 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Satin Sheen Gold - .50 Kg 
+<https://www.adafruit.com/product/2446>
+l2  2 IN STOCK
+l1   LEO the Maker Prince - Journeys in 3D Printing by Carla Diana 
+<https://www.adafruit.com/product/1630>
+l2  1 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Flamingo Pink - .50 Kg 
+<https://www.adafruit.com/product/2565>
+l2  3 IN STOCK
+l1   PRINTinZ Skin for Ultimaker - 229mm x 257mm 
+<https://www.adafruit.com/product/3098>
+l2  6 IN STOCK
+l1   NinjaFlex - 1.75mm Diameter - Caramel Candy - 0.5Kg 
+<https://www.adafruit.com/product/2382>
+l2  1 IN STOCK
+l1   ABS Filament for 3D Printers - 1.75mm Diameter - Blue - 1KG 
+<https://www.adafruit.com/product/2149>
+l2  1 IN STOCK
+l1   Cheetah 3D Printer Filament - 1.75mm Diameter 0.5kg - Midnight 
+<https://www.adafruit.com/product/3222>
+l2  3 IN STOCK
+l1   Ultimaker 3 - 3D Printer <https://www.adafruit.com/product/3300>
+l2  10 IN STOCK
+l1   Cheetah 3D Printer Filament - 3mm Diameter 0.75kg - Snow 
+<https://www.adafruit.com/product/3186>
+l2  5 IN STOCK
+l1   Proto-Pasta - Aromatic Coffee 1.75mm HTPLA Filament - 0.5 KG 
+<https://www.adafruit.com/product/3225>
+l2  1 IN STOCK
+l1   Cheetah 3D Printer Filament - 1.75mm Diameter 0.5kg - Snow 
+<https://www.adafruit.com/product/3223>
+l2  5 IN STOCK
+l1   Assembled Drawdio fun pack - v1.1 <https://www.adafruit.com/product/197>
+l2  21 IN STOCK
+l1   Bare Conductive Paint Pen - 10mL <https://www.adafruit.com/product/1306>
+l2  21 IN STOCK
+l1   Copper Foil Tape with Conductive Adhesive - 25mm x 15 meter roll 
+<https://www.adafruit.com/product/1127>
+l2  76 IN STOCK
+l1   Parallax BOEBot Robot for Arduino Kit <https://www.adafruit.com/product/749>
+l2  92 IN STOCK
+l1   Coloring book - "Ladyada's E is for electronics" 
+<https://www.adafruit.com/product/1000>
+l2  89 IN STOCK
+l1   OWI Robotic Arm Edge - Robot arm - OWI-535 
+<https://www.adafruit.com/product/548>
+l2  53 IN STOCK
+l1   DIY Gamer Kit from Technology Will Save Us 
+<https://www.adafruit.com/product/2123>
+l2  33 IN STOCK
+l1   Snap Circuits® Jr. 100 Experiments - Elenco SC-100 
+<https://www.adafruit.com/product/739>
+l2  24 IN STOCK
+l1   Conductive Silver Ink Pen - Micro Tip - CW2200MTP 
+<https://www.adafruit.com/product/515>
+l2  11 IN STOCK
+l1   Solar Powered SKULL Blinky LED Pendant Kit from Lumen Electronic 
+<https://www.adafruit.com/product/2306>
+l2  10 IN STOCK
+l1   Conductive Silver Ink Pen - Standard Tip - CW2200STP 
+<https://www.adafruit.com/product/514>
+l2  5 IN STOCK
+l1   Sylvia Super Awesome Project Book Add-On Pack w/ Genuine Arduino 
+<https://www.adafruit.com/product/2317>
+l2  2 IN STOCK
+l1   Sylvia's Super Awesome Project Book - Super Simple Arduino! 
+<https://www.adafruit.com/product/2316>
+l2  17 IN STOCK
+l1   Papertronics - Lunar Modules <https://www.adafruit.com/product/1133>
+l2  33 IN STOCK
+l1   Python for Kids - A Playful Introduction to Programming 
+<https://www.adafruit.com/product/1161>
+l2  4 IN STOCK
+l1   Snap Circuits® Green - Elenco SCG-125 <https://www.adafruit.com/product/741>
+l2  3 IN STOCK
+l1   Pixel Art Scratch-Off Card <https://www.adafruit.com/product/1382>
+l2  30 IN STOCK
+l1   Snap Circuits® Pro 500 Experiments - Elenco SC-500 
+<https://www.adafruit.com/product/740>
+l2  4 IN STOCK
+l1   Nixie Seven-Segment Art Scratch-Off Card 
+<https://www.adafruit.com/product/1383>
+l2  21 IN STOCK
+l1   Sew-Your-Own Owl Kit - Cynthia Treen Studio 
+<https://www.adafruit.com/product/1728>
+l2  7 IN STOCK
+l1   CELESTRON FirstScope Telescope <https://www.adafruit.com/product/1435>
+l2  10 IN STOCK
+l1   Bare Flashing Card Set - Celebration Circuit 
+<https://www.adafruit.com/product/1653>
+l2  30 IN STOCK
+l1   "3 Laws of Robotics" poster <https://www.adafruit.com/product/1062>
+l2  30 IN STOCK
+l1   Manga Guide to Electricity by Kazuhiro Fujitaki 
+<https://www.adafruit.com/product/267>
+l2  1 IN STOCK
+l1   Thames & Kosmos Electronics Experiment Kit 
+<https://www.adafruit.com/product/1511>
+l2  2 IN STOCK
+l1   Elly the Elephant - Kinetic Creatures <https://www.adafruit.com/product/1100>
+l2  2 IN STOCK
+l1   Goldie Blox and the Movie Machine <https://www.adafruit.com/product/2408>
+l2  1 IN STOCK
+l1   Geno the Giraffe - Kinetic Creatures <https://www.adafruit.com/product/1101>
+l2  8 IN STOCK
+l1   Goldie Blox Action Figure with Zipline <https://www.adafruit.com/product/2409>
+l2  2 IN STOCK
+l1   The Laser Game: KHET 2.0 <https://www.adafruit.com/product/1556>
+l2  3 IN STOCK
+l1   Solar Powered Owl Blinky LED Pendant Kit from Lumen Electronic 
+<https://www.adafruit.com/product/2352>
+l2  1 IN STOCK
+l1   LEO the Maker Prince - Journeys in 3D Printing by Carla Diana 
+<https://www.adafruit.com/product/1630>
+l2  1 IN STOCK
+l1   Goldie Blox and the Spinning Machine <https://www.adafruit.com/product/1464>
+l2  27 IN STOCK
+l1   LittleBits Sequencer Module <https://www.adafruit.com/product/2009>
+l2  26 IN STOCK
+l1   Discover Electronics Kit - 2.0 <https://www.adafruit.com/product/487>
+l2  43 IN STOCK
+l1   Rory the Rhino - Kinetic Creatures <https://www.adafruit.com/product/1102>
+l2  21 IN STOCK
+l1   Goldie Blox and the Parade Float <https://www.adafruit.com/product/1595>
+l2  28 IN STOCK
+l1   Thames & Kosmos Wind Power Kit - 3.0 <https://www.adafruit.com/product/3091>
+l2  11 IN STOCK
+l1   Circuit Patterns Trading Cards from Arachnid Labs 
+<https://www.adafruit.com/product/1474>
+l2  21 IN STOCK
+l1   AdaBox002 – Making Things Move - Feather Bluetooth LE Mini Robot  
+<https://www.adafruit.com/product/3235>
+l2  26 IN STOCK
+l1   Arduboy <https://www.adafruit.com/product/3264>
+l2  83 IN STOCK
+l1   Makedo Scru Add-On Pack <https://www.adafruit.com/product/3510>
+l2  61 IN STOCK
+l1   Silver Pin Back with Foam Adhesive <https://www.adafruit.com/product/2838>
+l2  52 IN STOCK
+l1   Kano Computer Kit with Raspberry Pi 3 <https://www.adafruit.com/product/3257>
+l2  44 IN STOCK
+l1   Kano Screen Kit <https://www.adafruit.com/product/3256>
+l2  41 IN STOCK
+l1   Adafruit Metro Starter Pack <https://www.adafruit.com/product/3345>
+l2  68 IN STOCK
+l1   Flotilla Mega Treasure Chest Starter Kit 
+<https://www.adafruit.com/product/3247>
+l2  25 IN STOCK
+l1   BlocklyProp Starter Kit <https://www.adafruit.com/product/3337>
+l2  4 IN STOCK
+l1   Adafruit FONA 3G Cellular Breakout - European version 
+<https://www.adafruit.com/product/2691>
+l2  29 IN STOCK
+l1   Adafruit Feather M0 Bluefruit LE <https://www.adafruit.com/product/2995>
+l2  21 IN STOCK
+l1   PN532 NFC/RFID controller breakout board - v1.6 
+<https://www.adafruit.com/product/364>
+l2  11 IN STOCK
+l1   Adafruit Feather 32u4 RFM69HCW Packet Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3076>
+l2  30 IN STOCK
+l1   Adafruit Bluefruit LE SPI Friend - Bluetooth Low Energy (BLE) 
+<https://www.adafruit.com/product/2633>
+l2  1 IN STOCK
+l1   Adafruit Feather 32u4 RFM95 LoRa Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3078>
+l2  59 IN STOCK
+l1   Adafruit FONA 808 - Mini Cellular GSM + GPS Breakout 
+<https://www.adafruit.com/product/2542>
+l2  34 IN STOCK
+l1   Adafruit RFM69HCW Transceiver Radio Breakout - 433 MHz 
+<https://www.adafruit.com/product/3071>
+l2  53 IN STOCK
+l1   Adafruit RFM95W LoRa Radio Transceiver Breakout - 868 or 915 MHz 
+<https://www.adafruit.com/product/3072>
+l2  1 IN STOCK
+l1   Adafruit Feather M0 RFM69HCW Packet Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3176>
+l2  51 IN STOCK
+l1   Adafruit ATWINC1500 WiFi Breakout <https://www.adafruit.com/product/2999>
+l2  62 IN STOCK
+l1   Adafruit FONA - Mini Cellular GSM Breakout uFL Version 
+<https://www.adafruit.com/product/1946>
+l2  48 IN STOCK
+l1   Slim Sticker-type GSM/Cellular Quad-Band Antenna - 3dBi - 200mm 
+<https://www.adafruit.com/product/3237>
+l2  92 IN STOCK
+l1   Adafruit FONA - Mini Cellular GSM Breakout - SMA Version - v1 
+<https://www.adafruit.com/product/1963>
+l2  21 IN STOCK
+l1   Adafruit RFM96W LoRa Radio Transceiver Breakout - 433 MHz 
+<https://www.adafruit.com/product/3073>
+l2  2 IN STOCK
+l1   2.4GHz Dipole Swivel Antenna with RP-SMA - 2dBi 
+<https://www.adafruit.com/product/944>
+l2  46 IN STOCK
+l1   Adafruit FONA 3G Cellular Breakout - American version - FREE Ting Sim Card w/ 
+Purchase! <https://www.adafruit.com/product/3147>
+l2  9 IN STOCK
+l1   Digital Loggers PLDuino - ATmega2560 + ESP8266 Customizable PLC 
+<https://www.adafruit.com/product/3418>
+l2  80 IN STOCK
+l1   Adafruit FONA 3G Cellular Breakout - American version - Without Free Ting Sim 
+Card <https://www.adafruit.com/product/2687>
+l2  9 IN STOCK
+l1   USB XBee Adapter <https://www.adafruit.com/product/247>
+l2  92 IN STOCK
+l1   Adafruit Radio FeatherWing - RFM69HCW 900MHz 
+<https://www.adafruit.com/product/3229>
+l2  7 IN STOCK
+l1   Keyfob Single Button RF Remote Control - 315MHz 
+<https://www.adafruit.com/product/1392>
+l2  54 IN STOCK
+l1   Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz 
+<https://www.adafruit.com/product/3077>
+l2  15 IN STOCK
+l1   Simple RF L4 Receiver - 315MHz Latching Selector Type 
+<https://www.adafruit.com/product/1098>
+l2  15 IN STOCK
+l1   Adafruit Feather M0 RFM69HCW Packet Radio - 433MHz 
+<https://www.adafruit.com/product/3177>
+l2  63 IN STOCK
+l1   13.56MHz RFID/NFC Bracelet - 1KB <https://www.adafruit.com/product/921>
+l2  54 IN STOCK
+l1   Adafruit ATWINC1500 WiFi Breakout with uFL Connector - fw 19.4.4 
+<https://www.adafruit.com/product/3060>
+l2  74 IN STOCK
+l1   Adafruit Radio FeatherWing - RFM69HCW 433MHz 
+<https://www.adafruit.com/product/3230>
+l2  91 IN STOCK
+l1   1Sheeld+ for iOS and Android <https://www.adafruit.com/product/3408>
+l2  74 IN STOCK
+l1   LightBlue Bean <https://www.adafruit.com/product/2732>
+l2  52 IN STOCK
+l1   Bluetooth / WiFi Combination USB Dongle <https://www.adafruit.com/product/2649>
+l2  39 IN STOCK
+l1   Edge-Launch SMA Connector for 0.8mm / 0.031" Slim PCBs 
+<https://www.adafruit.com/product/1864>
+l2  24 IN STOCK
+l1   13.56MHz RFID/NFC Charm - 1KB <https://www.adafruit.com/product/884>
+l2  28 IN STOCK
+l1   SIM808 GSM + GPRS + GPS Cellular Module <https://www.adafruit.com/product/2637>
+l2  31 IN STOCK
+l1   Electric Imp April: Basic prototyping <https://www.adafruit.com/product/1130>
+l2  18 IN STOCK
+l1   Getting Started with Bluetooth Low Energy by KTOWN 
+<https://www.adafruit.com/product/1978>
+l2  9 IN STOCK
+l1   Make: Bluetooth LE Projects for Arduino, RasPi, and Smartphones 
+<https://www.adafruit.com/product/3029>
+l2  2 IN STOCK
+l1   PhoBot - Robotics Shield for Photon <https://www.adafruit.com/product/2653>
+l2  57 IN STOCK
+l1   Electric Imp <https://www.adafruit.com/product/1129>
+l2  4 IN STOCK
+l1   RFID RFID/NFC S50 Card Reader - PS/2 Interface 
+<https://www.adafruit.com/product/923>
+l2  12 IN STOCK
+l1   RFID / NFC Smart Ring - Size 10 - NTAG213 
+<https://www.adafruit.com/product/2804>
+l2  12 IN STOCK
+l1   Building Wireless Sensor Networks by Rob Faludi 
+<https://www.adafruit.com/product/963>
+l2  11 IN STOCK
+l1   RFID / NFC Smart Ring - Size 12 - NTAG213 
+<https://www.adafruit.com/product/2806>
+l2  8 IN STOCK
+l1   RFID / NFC Smart Ring - Size 11 - NTAG213 
+<https://www.adafruit.com/product/2805>
+l2  1 IN STOCK
+l1   RFID / NFC Smart Ring - Size 8 - NTAG213 
+<https://www.adafruit.com/product/2802>
+l2  4 IN STOCK
+l1   Stainless Steel RFID Blocking Passport Sleeve 
+<https://www.adafruit.com/product/1091>
+l2  2 IN STOCK
+l1   RFID / NFC Smart Ring - Size 7 - NTAG213 
+<https://www.adafruit.com/product/2801>
+l2  3 IN STOCK
+l1   ACKme WiConnect WiFi Module - Mackerel Evaluation Board 
+<https://www.adafruit.com/product/2022>
+l2  16 IN STOCK
+l1   Adafruit LED Sequins - Emerald Green - Pack of 5 
+<https://www.adafruit.com/product/1756>
+l2  90 IN STOCK
+l1   FLORA 9-DOF Accelerometer/Gyroscope/Magnetometer - LSM9DS0 - v1.0 
+<https://www.adafruit.com/product/2020>
+l2  38 IN STOCK
+l1   Trinket-Powered NeoPixel Goggle Kit Pack 
+<https://www.adafruit.com/product/2221>
+l2  27 IN STOCK
+l1   Conductive Hook & Loop Tape - 3" long <https://www.adafruit.com/product/1324>
+l2  92 IN STOCK
+l1   Magnetic Pin Back <https://www.adafruit.com/product/1170>
+l2  7 IN STOCK
+l1   Flora UV Index Sensor - Si1145 Light Sensor 
+<https://www.adafruit.com/product/1981>
+l2  79 IN STOCK
+l1   Flora Sewable 3-Pin JST Wiring Adapter <https://www.adafruit.com/product/2566>
+l2  6 IN STOCK
+l1   Costume Goggles <https://www.adafruit.com/product/1577>
+l2  13 IN STOCK
+l1   Knit Jersey Conductive Fabric - 20cm square 
+<https://www.adafruit.com/product/1364>
+l2  1 IN STOCK
+l1   Adafruit Beginner LED Sewing Kit <https://www.adafruit.com/product/1285>
+l2  58 IN STOCK
+l1   Soft Potentiometer Kit from Plug&Wear <https://www.adafruit.com/product/2273>
+l2  98 IN STOCK
+l1   Litex White LEDs on Black Fabric Ribbon Pack - 1.5 meter 30 LEDs 
+<https://www.adafruit.com/product/1397>
+l2  28 IN STOCK
+l1   Getting Started with Adafruit FLORA <https://www.adafruit.com/product/1839>
+l2  67 IN STOCK
+l1   FLORA GPS Starter Pack <https://www.adafruit.com/product/1090>
+l2  63 IN STOCK
+l1   Stainless Steel Conductive Ribbon - 5mm wide 1 meter long 
+<https://www.adafruit.com/product/1244>
+l2  41 IN STOCK
+l1   Litex White LEDs on White Fabric Ribbon Pack - 1.5 meter 30 LEDs 
+<https://www.adafruit.com/product/1398>
+l2  16 IN STOCK
+l1   Litex Spare Battery Case <https://www.adafruit.com/product/1355>
+l2  19 IN STOCK
+l1   Make: Wearable Electronics by Kate Hartman 
+<https://www.adafruit.com/product/2170>
+l2  6 IN STOCK
+l1   Stainless Steel Conductive Ribbon - 17mm wide 1 meter long 
+<https://www.adafruit.com/product/1243>
+l2  23 IN STOCK
+l1   The LED Artist R48 - White LED Wearable <https://www.adafruit.com/product/1575>
+l2  3 IN STOCK
+l1   Litex White LEDs on Black Fabric Ribbon Pack 
+<https://www.adafruit.com/product/1353>
+l2  12 IN STOCK
+l1   1,000 Incredible Costume & Cosplay Ideas 
+<https://www.adafruit.com/product/2208>
+l2  3 IN STOCK
+l1   Punk LED Collar Kit - Red LEDs <https://www.adafruit.com/product/1454>
+l2  9 IN STOCK
+l1   Cosplay World by Brian Ashcraft and Luke Plunkett 
+<https://www.adafruit.com/product/2224>
+l2  1 IN STOCK
+l1   The LED Artist A12 - RGB LED Wearable <https://www.adafruit.com/product/1574>
+l2  1 IN STOCK
+l1   Litex White LEDs on White Fabric Ribbon Pack - 21" 10 LEDs 
+<https://www.adafruit.com/product/1354>
+l2  11 IN STOCK
+l1   Silver Pin Back with Foam Adhesive <https://www.adafruit.com/product/2838>
+l2  52 IN STOCK
+l1   Ladyada's Electronics Toolkit <https://www.adafruit.com/product/136>
+l2  14 IN STOCK
+l1   Fine tip curved tweezers - ESD safe - 120mm 
+<https://www.adafruit.com/product/422>
+l2  85 IN STOCK
+l1   Precision Straight Tweezers - Rhino SW-11 
+<https://www.adafruit.com/product/3096>
+l2  98 IN STOCK
+l1   Heat Shrink Pack <https://www.adafruit.com/product/344>
+l2  82 IN STOCK
+l1   Fine tip straight tweezers - ESD safe - 135mm 
+<https://www.adafruit.com/product/421>
+l2  31 IN STOCK
+l1   Hakko Professsional Quality 20-30 AWG Wire Strippers - CSP-30-1 
+<https://www.adafruit.com/product/527>
+l2  41 IN STOCK
+l1   Multi-size wire stripper & cutter - 5023 <https://www.adafruit.com/product/147>
+l2  86 IN STOCK
+l1   Third Hand Pana Hand Workstation Add-On for Panavise 
+<https://www.adafruit.com/product/3019>
+l2  72 IN STOCK
+l1   Bus pirate basic probe set <https://www.adafruit.com/product/238>
+l2  7 IN STOCK
+l1   Panel Temperature Meter / -30 to +70 °C <https://www.adafruit.com/product/576>
+l2  18 IN STOCK
+l1   Adafruit USB Isolator - 100mA Isolated Low/Full Speed USB 
+<https://www.adafruit.com/product/2107>
+l2  68 IN STOCK
+l1   Bus Pirate - BPv3.6 - v3.6 <https://www.adafruit.com/product/237>
+l2  20 IN STOCK
+l1   Precision screwdriver set (6 pieces) <https://www.adafruit.com/product/424>
+l2  20 IN STOCK
+l1   USB Microscope - 5MP interpolated 220x magnification / 8 LEDs 
+<https://www.adafruit.com/product/636>
+l2  19 IN STOCK
+l1   Carbide PCB Drill Bit - 0.7mm <https://www.adafruit.com/product/2119>
+l2  11 IN STOCK
+l1   Sugru - Black and White Pack <https://www.adafruit.com/product/437>
+l2  74 IN STOCK
+l1   Toggle Clamp - Small Flip-down Style <https://www.adafruit.com/product/2459>
+l2  25 IN STOCK
+l1   Hakko Precision Flat Pliers <https://www.adafruit.com/product/1368>
+l2  56 IN STOCK
+l1   Extech EX330 12-function autoranging multimeter - EX330 
+<https://www.adafruit.com/product/308>
+l2  92 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.8mm Diameter 
+<https://www.adafruit.com/product/2075>
+l2  52 IN STOCK
+l1   ST-Link STM8/STM32 v2 Programmer & Emulator 
+<https://www.adafruit.com/product/2548>
+l2  25 IN STOCK
+l1   38 Piece Screwdriver Set <https://www.adafruit.com/product/822>
+l2  77 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 36" - Red 
+<https://www.adafruit.com/product/2609>
+l2  55 IN STOCK
+l1   Toggle Clamp - Large Size - 201B <https://www.adafruit.com/product/2457>
+l2  69 IN STOCK
+l1   Solder Wire - RoHS Lead Free - 0.5mm/.02" diameter - 50g 
+<https://www.adafruit.com/product/2473>
+l2  62 IN STOCK
+l1   Toggle Clamp - Medium Flip-up Style <https://www.adafruit.com/product/2456>
+l2  82 IN STOCK
+l1   Deluxe Solder Stand with Solder Roll Holder 
+<https://www.adafruit.com/product/1154>
+l2  33 IN STOCK
+l1   GoodFET v42 by Travis Goodspeed - v4.2 <https://www.adafruit.com/product/1279>
+l2  90 IN STOCK
+l1   DSO Nano v3 - Pocket-size color digital oscilloscope - v3.0 
+<https://www.adafruit.com/product/468>
+l2  31 IN STOCK
+l1   Pomona Female 0.1" Socket to Banana Plug - 24" - Red 
+<https://www.adafruit.com/product/2666>
+l2  32 IN STOCK
+l1   Carbide PCB Drill Bit - 1.1mm <https://www.adafruit.com/product/2121>
+l2  2 IN STOCK
+l1   Pomona Female 0.1" Socket to Banana Plug - 24" - Black 
+<https://www.adafruit.com/product/2665>
+l2  37 IN STOCK
+l1   Hot Air Soldering Rework Station w/ Three Nozzles - Quick 957D 
+<https://www.adafruit.com/product/1869>
+l2  75 IN STOCK
+l1   Panavise Multi-Purpose Work Center - PV-350 
+<https://www.adafruit.com/product/2452>
+l2  23 IN STOCK
+l1   Pomona Minigrabber Test Clip Kit - Multi-Color Pack of 10 - POM-5522 
+<https://www.adafruit.com/product/2617>
+l2  89 IN STOCK
+l1   Professional IC Extraction Tool <https://www.adafruit.com/product/1598>
+l2  13 IN STOCK
+l1   Mini Work Tool <https://www.adafruit.com/product/1425>
+l2  43 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 24" - Red 
+<https://www.adafruit.com/product/2607>
+l2  6 IN STOCK
+l1   Universal Micro Crimping Pliers - 1.0 to 1.9mm Size Contacts - PA-09 
+<https://www.adafruit.com/product/350>
+l2  57 IN STOCK
+l1   FriedCircuits USB Tester v2.0 <https://www.adafruit.com/product/1456>
+l2  3 IN STOCK
+l1   Articulated Arm Stand for USB Microscope <https://www.adafruit.com/product/969>
+l2  33 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.5mm Diameter 
+<https://www.adafruit.com/product/2072>
+l2  93 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 24" - Black 
+<https://www.adafruit.com/product/2606>
+l2  5 IN STOCK
+l1   Professional Non-Slip Magnetic Project Mat 
+<https://www.adafruit.com/product/1636>
+l2  94 IN STOCK
+l1   Precision Torx Screwdriver Set (6 pieces) 
+<https://www.adafruit.com/product/452>
+l2  19 IN STOCK
+l1   Pocket Autoranging Digital Multimeter <https://www.adafruit.com/product/850>
+l2  47 IN STOCK
+l1   65 Piece Ratchet Screwdriver and Tool Bit Set 
+<https://www.adafruit.com/product/829>
+l2  17 IN STOCK
+l1   Premium Digital Stainless Steel Calipers 
+<https://www.adafruit.com/product/1724>
+l2  1 IN STOCK
+l1   Pomona Test Lead Holder - For cables up to .32" / 0 AWG diameter - Black - 
+POM-4408 <https://www.adafruit.com/product/2625>
+l2  45 IN STOCK
+l1   Saleae Logic 8 - 8 Channels Logic + Analog - Black 
+<https://www.adafruit.com/product/2512>
+l2  77 IN STOCK
+l1   Solder Spool - 1/4 lb SAC305 RoHS lead-free / 0.031" rosin-core - 0.25 lb / 
+100 g <https://www.adafruit.com/product/734>
+l2  9 IN STOCK
+l1   Hakko Soldering Tip: T18-D24 Screwdriver - For Lead or Lead-Free 
+<https://www.adafruit.com/product/1286>
+l2  39 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 12" - Black 
+<https://www.adafruit.com/product/2611>
+l2  21 IN STOCK
+l1   Pomona Test Lead Holder - For cables up to .21" / 3 AWG diameter - Orange - 
+POM-1508 <https://www.adafruit.com/product/2624>
+l2  27 IN STOCK
+l1   Ratcheting Crimper Pliers - #18-28 AWG <https://www.adafruit.com/product/1213>
+l2  3 IN STOCK
+l1   BitScope Micro USB <https://www.adafruit.com/product/2053>
+l2  14 IN STOCK
+l1   Oscilloscope Probe 100MHz <https://www.adafruit.com/product/1528>
+l2  47 IN STOCK
+l1   Large Double-Sided Storage Tote Box <https://www.adafruit.com/product/1149>
+l2  16 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.7mm Diameter 
+<https://www.adafruit.com/product/2074>
+l2  35 IN STOCK
+l1   Chip Quik SMD Removal Kit - SMD1 <https://www.adafruit.com/product/2660>
+l2  15 IN STOCK
+l1   Midnight hacker - Pocket electrician <https://www.adafruit.com/product/36>
+l2  11 IN STOCK
+l1   JTAGulator by Grand Idea Studio <https://www.adafruit.com/product/1550>
+l2  41 IN STOCK
+l1   Saleae Logic Pro 8 - 8 Channels Logic + Analog - Black 
+<https://www.adafruit.com/product/2313>
+l2  22 IN STOCK
+l1   Saleae Logic Pro 16 - 16 Channels Logic + Analog - Black 
+<https://www.adafruit.com/product/2431>
+l2  23 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 12" - Red 
+<https://www.adafruit.com/product/2605>
+l2  24 IN STOCK
+l1   Carbide Square End Mill - 1/8" Shaft - 0.6mm Diameter 
+<https://www.adafruit.com/product/2073>
+l2  9 IN STOCK
+l1   Autoranging Digital Multimeter Pen - MS8211D 
+<https://www.adafruit.com/product/1360>
+l2  14 IN STOCK
+l1   Mitutoyo - Absolute Digimatic Digital Calipers, 6 in. - 500-196-30 
+<https://www.adafruit.com/product/294>
+l2  26 IN STOCK
+l1   Aluminum MacBook Air 4 1.2mm 5-Point Star/Pentalobe Screwdriver 
+<https://www.adafruit.com/product/889>
+l2  7 IN STOCK
+l1   Saleae Logic 4 - 4 Channels Logic / 1 Channel Analog - Black 
+<https://www.adafruit.com/product/2312>
+l2  26 IN STOCK
+l1   Triple Output 195 Watt Power Supply - 30V, 30V, 5V @ 3A - DP832 
+<https://www.adafruit.com/product/2014>
+l2  1 IN STOCK
+l1   Precision screw removal pliers - PZ-57 <https://www.adafruit.com/product/396>
+l2  37 IN STOCK
+l1   Aluminum USB Microscope with Precision Stand 
+<https://www.adafruit.com/product/1061>
+l2  3 IN STOCK
+l1   Pomona Test Lead Holder - For cables up to .45" 4/0 AWG diameter - Blue - 
+POM-2708 <https://www.adafruit.com/product/2623>
+l2  11 IN STOCK
+l1   Beagle USB 12 - Low/Full Speed USB Protocol Analyzer + Sticker 
+<https://www.adafruit.com/product/708>
+l2  10 IN STOCK
+l1   Chip Quik SMD Removal Kit with Lead-Free Alloy - SMD1NL 
+<https://www.adafruit.com/product/2668>
+l2  7 IN STOCK
+l1   1 GS/s 100MHz Digital Storage Oscilloscope + Extras - DS1102E - DS1102E 
+<https://www.adafruit.com/product/1987>
+l2  3 IN STOCK
+l1   Messograf Pen Calipers <https://www.adafruit.com/product/810>
+l2  37 IN STOCK
+l1   PM51A - Amprobe Pocket Autoranging Digital Multimeter 
+<https://www.adafruit.com/product/2615>
+l2  4 IN STOCK
+l1   TV Microscope - 25x & 400x magnification / 8 LEDs 
+<https://www.adafruit.com/product/1345>
+l2  9 IN STOCK
+l1   1 GS/s 50MHz Digital Storage Oscilloscope - Rigol DS1052E - Rigol DS1052E 
+<https://www.adafruit.com/product/681>
+l2  8 IN STOCK
+l1   Leatherman Tread - Stainless Steel <https://www.adafruit.com/product/3011>
+l2  4 IN STOCK
+l1   Aluminum iPhone 4S 0.8mm 5-Point Star/Pentalobe Screwdriver 
+<https://www.adafruit.com/product/888>
+l2  11 IN STOCK
+l1   WiFi Portable Microscope - Usable With Android/iPad/iPhone 
+<https://www.adafruit.com/product/1276>
+l2  1 IN STOCK
+l1   Leatherman Tread - Black Steel <https://www.adafruit.com/product/3012>
+l2  7 IN STOCK
+l1   Fluke 87V Industrial Multimeter <https://www.adafruit.com/product/2610>
+l2  2 IN STOCK
+l1   iFixit Essential Electronics Toolkit <https://www.adafruit.com/product/3445>
+l2  92 IN STOCK
+l1   Makedo Scru Add-On Pack <https://www.adafruit.com/product/3510>
+l2  61 IN STOCK
+l1   Stickvise High Temperature PTFE Jaws (pair) 
+<https://www.adafruit.com/product/3198>
+l2  21 IN STOCK
+l1   Chip Quik Conductive Paint Kit with Plunger and Tips - 5 Grams - CP1-5S 
+<https://www.adafruit.com/product/3469>
+l2  23 IN STOCK
+l1   Mini Hand from Hobby Creek with Two Arms 
+<https://www.adafruit.com/product/2740>
+l2  35 IN STOCK
+l1   Electret Microphone Amplifier - MAX9814 with Auto Gain Control 
+<https://www.adafruit.com/product/1713>
+l2  98 IN STOCK
+l1   Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H 
+<https://www.adafruit.com/product/3421>
+l2  79 IN STOCK
+l1   Liquid Flow Meter - Plastic 1/2" NPS Threaded 
+<https://www.adafruit.com/product/828>
+l2  90 IN STOCK
+l1   Standalone Momentary Capacitive Touch Sensor Breakout - AT42QT1010 
+<https://www.adafruit.com/product/1374>
+l2  86 IN STOCK
+l1   Potentiometer Knob - Soft Touch T18 - Blue 
+<https://www.adafruit.com/product/2048>
+l2  70 IN STOCK
+l1   Analog Output K-Type Thermocouple Amplifier - AD8495 Breakout 
+<https://www.adafruit.com/product/1778>
+l2  11 IN STOCK
+l1   Adafruit ALS-PT19 Analog Light Sensor Breakout 
+<https://www.adafruit.com/product/2748>
+l2  18 IN STOCK
+l1   CAP1188 - 8-Key Capacitive Touch Sensor Breakout - I2C or SPI 
+<https://www.adafruit.com/product/1602>
+l2  26 IN STOCK
+l1   Membrane 3x4 Matrix Keypad + extras - 3x4 
+<https://www.adafruit.com/product/419>
+l2  81 IN STOCK
+l1   Solid Machined Metal Knob - 1" Diameter <https://www.adafruit.com/product/2056>
+l2  32 IN STOCK
+l1   Platinum RTD Sensor - PT100 - 3 Wire 1 meter long 
+<https://www.adafruit.com/product/3290>
+l2  20 IN STOCK
+l1   Adafruit VEML6070 UV Index Sensor Breakout 
+<https://www.adafruit.com/product/2899>
+l2  18 IN STOCK
+l1   MPL115A2 - I2C Barometric Pressure/Temperature Sensor 
+<https://www.adafruit.com/product/992>
+l2  73 IN STOCK
+l1   Brass Liquid Solenoid Valve - 12V - 1/2 NPS 
+<https://www.adafruit.com/product/996>
+l2  30 IN STOCK
+l1   Mini 8-Way Rotary Selector Switch - SP8T 
+<https://www.adafruit.com/product/2925>
+l2  69 IN STOCK
+l1   Circular Soft Potentiometer (Ribbon Sensor) 
+<https://www.adafruit.com/product/1069>
+l2  53 IN STOCK
+l1   Linear SoftPot (Ribbon Sensor) - 100mm <https://www.adafruit.com/product/178>
+l2  34 IN STOCK
+l1   Barcode Reader/Scanner Module - CCD Camera - USB Interface 
+<https://www.adafruit.com/product/1203>
+l2  52 IN STOCK
+l1   Foot switch <https://www.adafruit.com/product/423>
+l2  71 IN STOCK
+l1   Panel Temperature Meter / -30 to +70 °C <https://www.adafruit.com/product/576>
+l2  18 IN STOCK
+l1   Contact-less Infrared Thermopile Sensor Breakout - TMP006 
+<https://www.adafruit.com/product/1296>
+l2  5 IN STOCK
+l1   Pixy CMUcam5 Sensor <https://www.adafruit.com/product/1906>
+l2  20 IN STOCK
+l1   Miniature TTL Serial JPEG Camera with NTSC Video 
+<https://www.adafruit.com/product/1386>
+l2  9 IN STOCK
+l1   DIY Sensor Film Kit - 4x6" Small Kit <https://www.adafruit.com/product/1917>
+l2  63 IN STOCK
+l1   Chirp! The Plant Watering Alarm <https://www.adafruit.com/product/1965>
+l2  30 IN STOCK
+l1   PSP 3000 2-Axis Analog Thumb Joystick <https://www.adafruit.com/product/3103>
+l2  52 IN STOCK
+l1   Weatherproof TTL Serial JPEG Camera with NTSC Video and IR LEDs 
+<https://www.adafruit.com/product/613>
+l2  7 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HRLV-EZ0 - HRLV-EZ0 
+<https://www.adafruit.com/product/983>
+l2  56 IN STOCK
+l1   12" eTape Liquid Level Sensor + extras <https://www.adafruit.com/product/464>
+l2  54 IN STOCK
+l1   Melexis Contact-less Infrared Sensor - MLX90614 5V 
+<https://www.adafruit.com/product/1748>
+l2  90 IN STOCK
+l1   Melexis Contact-less Infrared Sensor - MLX90614 3V 
+<https://www.adafruit.com/product/1747>
+l2  54 IN STOCK
+l1   8" eTape Liquid Level Sensor + extras <https://www.adafruit.com/product/463>
+l2  40 IN STOCK
+l1   Maxbotix Weather-Resistant Ultrasonic Rangefinder - MB7092 XL-MaxSonar-WRMA1 
+<https://www.adafruit.com/product/1137>
+l2  17 IN STOCK
+l1   Heart Rate Educational Starter Pack with Polar Wireless Sensors 
+<https://www.adafruit.com/product/1077>
+l2  99 IN STOCK
+l1   Leap Motion Controller with SDK <https://www.adafruit.com/product/2106>
+l2  30 IN STOCK
+l1   Geiger Counter Kit - Radiation Sensor <https://www.adafruit.com/product/483>
+l2  58 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HRLV-EZ1 - HRLV-EZ1 
+<https://www.adafruit.com/product/984>
+l2  39 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HRLV-EZ4 - HRLV-EZ4 
+<https://www.adafruit.com/product/985>
+l2  19 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - LV-EZ3 - LV-EZ3 
+<https://www.adafruit.com/product/981>
+l2  52 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HR-USB-EZ1 - MB1413 
+<https://www.adafruit.com/product/1343>
+l2  34 IN STOCK
+l1   Geiger Counter Kit Case <https://www.adafruit.com/product/561>
+l2  29 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - LV-EZ2 - LV-EZ2 
+<https://www.adafruit.com/product/980>
+l2  74 IN STOCK
+l1   Capacitive Trackpad/Touchpad - Microcontroller-Friendly PS/2 
+<https://www.adafruit.com/product/837>
+l2  20 IN STOCK
+l1   Barcode Reader/Scanner Module - CCD Camera - PS/2 Interface 
+<https://www.adafruit.com/product/1202>
+l2  25 IN STOCK
+l1   PJRC Prop Shield with Motion Sensor for Teensy 3.2 and Teensy-LC 
+<https://www.adafruit.com/product/3085>
+l2  100 IN STOCK
+l1   12" Standard eTape Liquid Level Sensor with Plastic Casing 
+<https://www.adafruit.com/product/2656>
+l2  13 IN STOCK
+l1   12" Chemical eTape Liquid Level Sensor with Teflon Jacket 
+<https://www.adafruit.com/product/1786>
+l2  9 IN STOCK
+l1   Bare Conductive Pi Cap <https://www.adafruit.com/product/3224>
+l2  10 IN STOCK
+l1   Bare Conductive Touch Board <https://www.adafruit.com/product/2216>
+l2  9 IN STOCK
+l1   Large push-pull solenoid <https://www.adafruit.com/product/413>
+l2  41 IN STOCK
+l1   Analog Feedback Micro Servo - Plastic Gear 
+<https://www.adafruit.com/product/1449>
+l2  79 IN STOCK
+l1   L-Plate for 2020 Aluminum Extrusion <https://www.adafruit.com/product/1218>
+l2  86 IN STOCK
+l1   Brass Liquid Solenoid Valve - 12V - 1/2 NPS 
+<https://www.adafruit.com/product/996>
+l2  30 IN STOCK
+l1   Aluminum Flex Shaft Coupler - 5mm to 8mm 
+<https://www.adafruit.com/product/1176>
+l2  39 IN STOCK
+l1   Miniature Slip Ring - 12mm diameter, 6 wires, max 240V @ 2A 
+<https://www.adafruit.com/product/775>
+l2  30 IN STOCK
+l1   Aluminum GT2 Timing Pulley - 6mm Belt - 20 Tooth - 5mm Bore 
+<https://www.adafruit.com/product/1251>
+l2  46 IN STOCK
+l1   Aluminum Flex Shaft Coupler - 5mm to 5mm 
+<https://www.adafruit.com/product/1175>
+l2  37 IN STOCK
+l1   Linear Bearing Supported Slide Rail - 15mm wide - 500mm long 
+<https://www.adafruit.com/product/1861>
+l2  33 IN STOCK
+l1   Radial Ball Bearing 608ZZ - Set of 4 <https://www.adafruit.com/product/1178>
+l2  74 IN STOCK
+l1   Timing Belt GT2 Profile - 2mm pitch - 6mm wide 1164mm long 
+<https://www.adafruit.com/product/1184>
+l2  65 IN STOCK
+l1   Mini-DIN Connector Cable for iRobot Create 2 - 7 Pins - 6 feet 
+<https://www.adafruit.com/product/2438>
+l2  35 IN STOCK
+l1   Linear Bearing Platform (Small) - 8mm Diameter - SC8UU 
+<https://www.adafruit.com/product/1179>
+l2  46 IN STOCK
+l1   Parallax BOEBot Robot for Arduino Kit <https://www.adafruit.com/product/749>
+l2  92 IN STOCK
+l1   Zumo Robot for Arduino - v1.2 <https://www.adafruit.com/product/1639>
+l2  67 IN STOCK
+l1   Miniature Slip Ring - 12mm diameter, 12 wires, max 240V @ 2A 
+<https://www.adafruit.com/product/1195>
+l2  62 IN STOCK
+l1   1/4" Screw with D-Ring - for Cameras / Tripods / Photo / Video 
+<https://www.adafruit.com/product/2629>
+l2  98 IN STOCK
+l1   Button Hex Machine Screw - M4 thread - 10mm long - pack of 50 
+<https://www.adafruit.com/product/1159>
+l2  47 IN STOCK
+l1   Aluminum Extrusion Oval T-Nut for 20x20 - M4 Thread - pack of 50 
+<https://www.adafruit.com/product/1158>
+l2  25 IN STOCK
+l1   Aluminum Extrusion End Cap (for 20x20) - pack of 10 
+<https://www.adafruit.com/product/1156>
+l2  37 IN STOCK
+l1   Swivel-Head Pan Tilt (PTZ) Shoe Mount Adapter 
+<https://www.adafruit.com/product/2464>
+l2  59 IN STOCK
+l1   Adjustable Angle Support for 2020 Aluminum Extrusion 
+<https://www.adafruit.com/product/1257>
+l2  20 IN STOCK
+l1   OWI Robotic Arm Edge - Robot arm - OWI-535 
+<https://www.adafruit.com/product/548>
+l2  53 IN STOCK
+l1   Linear Bearing Supported Slide Rail - 12mm wide - 600mm long 
+<https://www.adafruit.com/product/1851>
+l2  55 IN STOCK
+l1   15mm Diameter Linear Bearing Pillow Block - Wider Version 
+<https://www.adafruit.com/product/1866>
+l2  25 IN STOCK
+l1   Sparki – The Easy Robot for Everyone <https://www.adafruit.com/product/1715>
+l2  9 IN STOCK
+l1   1/4" to 1/4" Screw Adapter - For Camera / Tripod / Photo / Video 
+<https://www.adafruit.com/product/2632>
+l2  16 IN STOCK
+l1   15mm Diameter Linear Bearing Pillow Block 
+<https://www.adafruit.com/product/1860>
+l2  30 IN STOCK
+l1   Aluminum GT2 Timing Pulley - 6mm Belt - 20 Tooth - 8mm Bore 
+<https://www.adafruit.com/product/1252>
+l2  27 IN STOCK
+l1   Cross-Plate for 2020 Aluminum Extrusion <https://www.adafruit.com/product/1220>
+l2  4 IN STOCK
+l1   8mm Diameter Linear Bearing Pillow Block - SC8LUU 
+<https://www.adafruit.com/product/1180>
+l2  17 IN STOCK
+l1   Camera Shoe Mount / Bracket - Connects to 1/4" screw 
+<https://www.adafruit.com/product/2410>
+l2  55 IN STOCK
+l1   PhoBot - Robotics Shield for Photon <https://www.adafruit.com/product/2653>
+l2  57 IN STOCK
+l1   Allen Wrench (Hex Key) - 2.5mm <https://www.adafruit.com/product/1229>
+l2  29 IN STOCK
+l1   iRobot Create® 2 Programmable Robot <https://www.adafruit.com/product/2388>
+l2  7 IN STOCK
+l1   Hexy - Programmable Hexapod Kit <https://www.adafruit.com/product/1529>
+l2  11 IN STOCK
+l1   ADABOT "Make Robot Friend" Poster <https://www.adafruit.com/product/2415>
+l2  20 IN STOCK
+l1   "3 Laws of Robotics" poster <https://www.adafruit.com/product/1062>
+l2  30 IN STOCK
+l1   Microsoft Azure IoT Starter Kit w/ Adafruit Feather HUZZAH 
+<https://www.adafruit.com/product/3032>
+l2  16 IN STOCK
+l1   Raspberry Pi Media Center Kit - for Pi 2 or Pi 3 - Includes Pi 3 
+<https://www.adafruit.com/product/3158>
+l2  96 IN STOCK
+l1   Microsoft Azure IoT Starter Kit w/ Adafruit Feather M0 WiFi 
+<https://www.adafruit.com/product/3031>
+l2  29 IN STOCK
+l1   Raspberry Pi Media Center Kit - For Pi2 or Pi3 - No Pi Included 
+<https://www.adafruit.com/product/3114>
+l2  96 IN STOCK
+l1   Arrow Presents: Advanced Internet of Things Pack - Back to School with LadyAda 
+<https://www.adafruit.com/product/3210>
+l2  41 IN STOCK
+l1   Arrow Presents: Intermediate Learn to Solder Pack - Back to School with LadyAda
+ <https://www.adafruit.com/product/3209>
+l2  45 IN STOCK
+l1   Premium Female/Male 'Extension' Jumper Wires - 40 x 6" (150mm) 
+<https://www.adafruit.com/product/826>
+l2  92 IN STOCK
+l1   Premium Female/Male 'Extension' Jumper Wires - 20 x 3" 
+<https://www.adafruit.com/product/1953>
+l2  50 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 2m 26AWG Black 
+<https://www.adafruit.com/product/1881>
+l2  43 IN STOCK
+l1   Premium Female/Female Jumper Wires - 20 x 12" (300mm) 
+<https://www.adafruit.com/product/1949>
+l2  57 IN STOCK
+l1   Premium Female/Male 'Extension' Jumper Wires - 40 x 12" (300mm) 
+<https://www.adafruit.com/product/824>
+l2  8 IN STOCK
+l1   Half Size Breadboard + 78 Piece 22AWG Jumper Wire Bundle 
+<https://www.adafruit.com/product/3314>
+l2  39 IN STOCK
+l1   Medium Modular Snap Boxes - SMD component storage - 2 pack - Pink 
+<https://www.adafruit.com/product/433>
+l2  74 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 25ft 26AWG - Black 
+<https://www.adafruit.com/product/2517>
+l2  76 IN STOCK
+l1   Tiny Modular Snap Boxes - SMD component storage - 10 pack - White 
+<https://www.adafruit.com/product/431>
+l2  69 IN STOCK
+l1   SMT Breakout PCB Set For SOT-23, SOT-89, SOT-223 and TO252 
+<https://www.adafruit.com/product/1230>
+l2  62 IN STOCK
+l1   Snap-action 3-Wire Block Connector (12-28 AWG) - Pack of 3 
+<https://www.adafruit.com/product/866>
+l2  76 IN STOCK
+l1   Copper Foil Tape with Conductive Adhesive - 25mm x 15 meter roll 
+<https://www.adafruit.com/product/1127>
+l2  76 IN STOCK
+l1   Large Single Row Housing Pack for DIY Jumper Cables 
+<https://www.adafruit.com/product/3146>
+l2  99 IN STOCK
+l1   Pig-Tail Cables - 0.1" 2-pin - 4 Pack <https://www.adafruit.com/product/1003>
+l2  41 IN STOCK
+l1   Solid-Core Wire Spool - 25ft - 22AWG - Yellow 
+<https://www.adafruit.com/product/289>
+l2  23 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 50ft 30AWG Red 
+<https://www.adafruit.com/product/3165>
+l2  37 IN STOCK
+l1   Antistatic Modular Snap Boxes - SMD component storage - 5 pack - Antistatic 
+<https://www.adafruit.com/product/430>
+l2  17 IN STOCK
+l1   Stranded-Core Wire Spool - 25ft - 22AWG - Black 
+<https://www.adafruit.com/product/2976>
+l2  45 IN STOCK
+l1   Pogo Pins "Spear Head" (10 pack) - P75-LM3 
+<https://www.adafruit.com/product/394>
+l2  51 IN STOCK
+l1   Bare Conductive Paint Pen - 10mL <https://www.adafruit.com/product/1306>
+l2  21 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 50ft 30AWG White 
+<https://www.adafruit.com/product/3169>
+l2  6 IN STOCK
+l1   Hook-up Wire Spool Set - 22AWG Stranded-Core - 10 x 25ft 
+<https://www.adafruit.com/product/3175>
+l2  80 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 50ft 30AWG Blue 
+<https://www.adafruit.com/product/3166>
+l2  12 IN STOCK
+l1   SMT Breakout PCB for SOIC-20 or TSSOP-20 - 3 Pack! 
+<https://www.adafruit.com/product/1206>
+l2  73 IN STOCK
+l1   Cold Splice Wire Tap (UB) - 10 pack <https://www.adafruit.com/product/1494>
+l2  91 IN STOCK
+l1   Sugru - Black and White Pack <https://www.adafruit.com/product/437>
+l2  74 IN STOCK
+l1   Cold 2-Wire Splice (UY) - 10 pack <https://www.adafruit.com/product/1496>
+l2  90 IN STOCK
+l1   Solid-Core Wire Spool - 25ft - 22AWG - White 
+<https://www.adafruit.com/product/2984>
+l2  39 IN STOCK
+l1   Adafruit Half-size Perma-Proto Raspberry Pi Breadboard PCB Kit 
+<https://www.adafruit.com/product/1148>
+l2  72 IN STOCK
+l1   "Wire Wrap" Thin Prototyping & Repair Wire - 200m 30AWG Blue 
+<https://www.adafruit.com/product/1446>
+l2  51 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 25ft 26AWG - White 
+<https://www.adafruit.com/product/2518>
+l2  87 IN STOCK
+l1   Blank SMT Storage Book - 20 pages <https://www.adafruit.com/product/520>
+l2  18 IN STOCK
+l1   SMT Breakout PCB for 48-QFN or 48-TQFP - 3 Pack! 
+<https://www.adafruit.com/product/1377>
+l2  16 IN STOCK
+l1   Configurable Spring Terminal Blocks - 3 Pin 0.1" Pitch x 5 
+<https://www.adafruit.com/product/1081>
+l2  64 IN STOCK
+l1   Bi-Fold Compartment Parts Box <https://www.adafruit.com/product/796>
+l2  88 IN STOCK
+l1   Solid-Core Wire Spool - 25ft - 22AWG - Blue 
+<https://www.adafruit.com/product/2989>
+l2  100 IN STOCK
+l1   Pomona Female 0.1" Socket to Banana Plug - 24" - Red 
+<https://www.adafruit.com/product/2666>
+l2  32 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 25ft 26AWG - Yellow 
+<https://www.adafruit.com/product/2515>
+l2  32 IN STOCK
+l1   Large Dual Row Wire Housing Pack for DIY Jumper Cables 
+<https://www.adafruit.com/product/3144>
+l2  60 IN STOCK
+l1   SMT/SMD 0805 Resistor and Capacitor Book - 3725 pieces 
+<https://www.adafruit.com/product/441>
+l2  45 IN STOCK
+l1   Adafruit AVR Sticker for Breadboard Arduino-compatibles - 10 pcs 
+<https://www.adafruit.com/product/554>
+l2  38 IN STOCK
+l1   Cold 3-Wire Splice (UR) - 10 pack <https://www.adafruit.com/product/1495>
+l2  76 IN STOCK
+l1   Pomona Female 0.1" Socket to Banana Plug - 24" - Black 
+<https://www.adafruit.com/product/2665>
+l2  37 IN STOCK
+l1   Blank SMT Storage Pages for 12 strips of 8mm Tape - 5 Pages 
+<https://www.adafruit.com/product/2183>
+l2  5 IN STOCK
+l1   SMT 0603 Resistor and Capacitor Book - 3725 pieces 
+<https://www.adafruit.com/product/442>
+l2  15 IN STOCK
+l1   Stranded-Core Wire Spool - 25ft - 22AWG - White 
+<https://www.adafruit.com/product/2997>
+l2  65 IN STOCK
+l1   Blank SMT Storage Pages for 6 strips of 24mm Tape - 5 Pages 
+<https://www.adafruit.com/product/2184>
+l2  22 IN STOCK
+l1   Solid-Core Wire Spool - 25ft - 22AWG - Violet 
+<https://www.adafruit.com/product/2990>
+l2  49 IN STOCK
+l1   Stranded-Core Wire Spool - 25ft - 22AWG - Green 
+<https://www.adafruit.com/product/2979>
+l2  32 IN STOCK
+l1   Solid-Core Wire Spool - 25ft - 22AWG - Green 
+<https://www.adafruit.com/product/2988>
+l2  87 IN STOCK
+l1   Silicone Cover Stranded-Core Wire - 25ft 26AWG - Orange 
+<https://www.adafruit.com/product/2520>
+l2  42 IN STOCK
+l1   SMT Test Socket - SOIC-16 Narrow Breakout 
+<https://www.adafruit.com/product/1283>
+l2  8 IN STOCK
+l1   Barebones AVR dev. board <https://www.adafruit.com/product/174>
+l2  13 IN STOCK
+l1   Stranded-Core Wire Spool - 25ft - 22AWG - Blue 
+<https://www.adafruit.com/product/2980>
+l2  31 IN STOCK
+l1   SMT Test Socket - SOIC-8 Narrow Breakout 
+<https://www.adafruit.com/product/1284>
+l2  23 IN STOCK
+l1   SMT Test Socket - TQFP-32 Breakout <https://www.adafruit.com/product/1240>
+l2  24 IN STOCK
+l1   SMT Test Socket - SOIC-28 Wide Breakout <https://www.adafruit.com/product/1281>
+l2  15 IN STOCK
+l1   Thin RG-174/U Coaxial Cable - 3 meters / approx 10 feet 
+<https://www.adafruit.com/product/2059>
+l2  8 IN STOCK
+l1   Stranded-Core Wire Spool - 25ft - 22AWG - Gray 
+<https://www.adafruit.com/product/2996>
+l2  68 IN STOCK
+l1   SMT Test Socket - SOIC-20 Medium Breakout 
+<https://www.adafruit.com/product/1282>
+l2  9 IN STOCK
+l1   Conductive Silver Ink Pen - Standard Tip - CW2200STP 
+<https://www.adafruit.com/product/514>
+l2  5 IN STOCK
+l1   Conductive Silver Ink Pen - Micro Tip - CW2200MTP 
+<https://www.adafruit.com/product/515>
+l2  11 IN STOCK
+l1   Othermill Pro - Compact Precision CNC + PCB Milling Machine 
+<https://www.adafruit.com/product/2323>
+l2  7 IN STOCK
+l1   SMT Test Socket - Medium SOIC-8 (200mil) 
+<https://www.adafruit.com/product/1796>
+l2  42 IN STOCK
+l1   SMT Test Socket - TSSOP-28 Breakout <https://www.adafruit.com/product/1280>
+l2  26 IN STOCK
+l1   SMT Test Socket - TQFP-44 Breakout <https://www.adafruit.com/product/1239>
+l2  3 IN STOCK
+l1   E1115 PS/2 Keyboard to TTL Serial Converter 
+<https://www.adafruit.com/product/1136>
+l2  55 IN STOCK
+l1   SMT Test Socket - TQFP-48 Breakout <https://www.adafruit.com/product/1241>
+l2  9 IN STOCK
+l1   SMT Test Socket - TSSOP-16 <https://www.adafruit.com/product/1795>
+l2  24 IN STOCK
+l1   Stranded-Core Wire Spool - 25ft - 22AWG - Brown 
+<https://www.adafruit.com/product/2977>
+l2  100 IN STOCK
+l1   Breadboard-friendly 2.1mm DC barrel jack <https://www.adafruit.com/product/373>
+l2  90 IN STOCK
+l1   9V battery clip with 5.5mm/2.1mm plug <https://www.adafruit.com/product/80>
+l2  24 IN STOCK
+l1   MicroUSB Plug to 5.5/2.1mm DC Barrel Jack Adapter 
+<https://www.adafruit.com/product/2727>
+l2  7 IN STOCK
+l1   USB Extension Cable with Data/Charge Sync Switch 
+<https://www.adafruit.com/product/3438>
+l2  79 IN STOCK
+l1   Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1 
+<https://www.adafruit.com/product/1905>
+l2  33 IN STOCK
+l1   Switched JST-PH 2-Pin SMT Right Angle Breakout Board 
+<https://www.adafruit.com/product/1863>
+l2  61 IN STOCK
+l1   Adafruit Push-button Power Switch Breakout 
+<https://www.adafruit.com/product/1400>
+l2  77 IN STOCK
+l1   Pimoroni Zero LiPo <https://www.adafruit.com/product/3196>
+l2  54 IN STOCK
+l1   Waterproof 2xAA Battery Holder with On/Off Switch 
+<https://www.adafruit.com/product/770>
+l2  24 IN STOCK
+l1   VERTER 5V USB Buck-Boost - 500mA from 3V-5V / 1000ma from 5V-12V 
+<https://www.adafruit.com/product/2190>
+l2  33 IN STOCK
+l1   12mm Coin Cell Breakout w/ On-Off Switch 
+<https://www.adafruit.com/product/1867>
+l2  83 IN STOCK
+l1   MicroUSB to 5.5/2.1mm DC Barrel Jack Adapter 
+<https://www.adafruit.com/product/2789>
+l2  94 IN STOCK
+l1   INA169 Analog DC Current Sensor Breakout - 60V 5A Max 
+<https://www.adafruit.com/product/1164>
+l2  27 IN STOCK
+l1   Adafruit PowerBoost 500 Shield - Rechargeable 5V Power Shield 
+<https://www.adafruit.com/product/2078>
+l2  64 IN STOCK
+l1   12mm Coin Cell Breakout Board <https://www.adafruit.com/product/1868>
+l2  85 IN STOCK
+l1   Adjustable breadboard power supply kit - v1.0 
+<https://www.adafruit.com/product/184>
+l2  70 IN STOCK
+l1   5.0V 250mA Linear Voltage Regulator - L4931-5.0 TO-92 
+<https://www.adafruit.com/product/2236>
+l2  38 IN STOCK
+l1   USB to 2.1mm DC Booster Cable - 9V <https://www.adafruit.com/product/2777>
+l2  48 IN STOCK
+l1   Mini DC/DC Step-Down (Buck) Converter - 3.3V @ 1A output - TSR12433 
+<https://www.adafruit.com/product/1066>
+l2  78 IN STOCK
+l1   Inductive Charging Set - 3.3V @ 500mA max 
+<https://www.adafruit.com/product/1459>
+l2  59 IN STOCK
+l1   CR2450 Lithium Coin Cell Battery <https://www.adafruit.com/product/2850>
+l2  31 IN STOCK
+l1   Australian Plug Power Adapter <https://www.adafruit.com/product/991>
+l2  76 IN STOCK
+l1   Qi Wireless Charging Module - 20mm - Lightning Connector 
+<https://www.adafruit.com/product/2677>
+l2  47 IN STOCK
+l1   Colossal 6V 9W Solar Panel - 9.0 Watt <https://www.adafruit.com/product/2747>
+l2  15 IN STOCK
+l1   Camcorder Battery Holder/Adapter for Sony NP-F750 w/ DC Jack 
+<https://www.adafruit.com/product/2089>
+l2  35 IN STOCK
+l1   Universal Qi Wireless Charging Module - 60mm Reverse MicroUSB 
+<https://www.adafruit.com/product/2115>
+l2  3 IN STOCK
+l1   Camcorder Battery Holder for Panasonic CGR-D28 and CGA-D54s 
+<https://www.adafruit.com/product/2272>
+l2  6 IN STOCK
+l1   Camcorder Battery Holder for Canon LP-E6 
+<https://www.adafruit.com/product/2271>
+l2  16 IN STOCK
+l1   UK Plug Power Adapter <https://www.adafruit.com/product/989>
+l2  83 IN STOCK
+l1   Lithium Ion Coin Cell Charger <https://www.adafruit.com/product/1573>
+l2  39 IN STOCK
+l1   Solar Powered SKULL Blinky LED Pendant Kit from Lumen Electronic 
+<https://www.adafruit.com/product/2306>
+l2  10 IN STOCK
+l1   Universal Qi Wireless Charging Module - 20mm Reverse MicroUSB 
+<https://www.adafruit.com/product/2114>
+l2  38 IN STOCK
+l1   Universal Qi Wireless Charging Module - 20mm Forward MicroUSB 
+<https://www.adafruit.com/product/2116>
+l2  14 IN STOCK
+l1   Solar Powered Owl Blinky LED Pendant Kit from Lumen Electronic 
+<https://www.adafruit.com/product/2352>
+l2  1 IN STOCK
+l1   Qi Wireless Charger Sleeve - iPhone 5 Lightning Connector 
+<https://www.adafruit.com/product/1926>
+l2  37 IN STOCK
+l1   Pocket Socket 2 - Hand-Crank Power Outlet 
+<https://www.adafruit.com/product/1462>
+l2  9 IN STOCK
+l1   Power Cord Cable w/ 3 Conductor PC Power Connector Socket - 6ft 18AWG 
+<https://www.adafruit.com/product/3311>
+l2  31 IN STOCK
+l1   Particle Maker Kit with Photon <https://www.adafruit.com/product/2798>
+l2  59 IN STOCK
+l1   Particle Photon Internet Button <https://www.adafruit.com/product/2799>
+l2  27 IN STOCK
+l1   Adafruit Particle/Spark NeoPixel Ring Kit - 24 NeoPixels 
+<https://www.adafruit.com/product/2268>
+l2  56 IN STOCK
+l1   2.4GHz Dipole Swivel Antenna with RP-SMA - 2dBi 
+<https://www.adafruit.com/product/944>
+l2  46 IN STOCK
+l1   Particle Power Shield with Headers <https://www.adafruit.com/product/3455>
+l2  31 IN STOCK
+l1   Relay Shield for Photon <https://www.adafruit.com/product/3051>
+l2  55 IN STOCK
+l1   Particle Sensor Kit 3G - Americas/Aus <https://www.adafruit.com/product/3457>
+l2  18 IN STOCK
+l1   Electron Cellular IoT Kit - 3G Americas/Aus 
+<https://www.adafruit.com/product/3234>
+l2  54 IN STOCK
+l1   Particle Sensor Kit 3G – Eur/Afr/Asia <https://www.adafruit.com/product/3454>
+l2  3 IN STOCK
+l1   Particle Asset Tracker – 2G <https://www.adafruit.com/product/3450>
+l2  3 IN STOCK
+l1   Electron Cellular IoT Kit - 2G Global <https://www.adafruit.com/product/3233>
+l2  83 IN STOCK
+l1   Particle Asset Tracker – 3G Eur/Afr/Asia 
+<https://www.adafruit.com/product/3452>
+l2  5 IN STOCK
+l1   Electron Cellular IoT Kit - 3G Eur/Afr/Asia 
+<https://www.adafruit.com/product/3453>
+l2  45 IN STOCK
+l1   FadeCandy - Dithering USB-Controlled Driver for RGB NeoPixels 
+<https://www.adafruit.com/product/1689>
+l2  86 IN STOCK
+l1   NeoPixel FeatherWing - 4x8 RGB LED Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2945>
+l2  55 IN STOCK
+l1   NeoPixel 1/4 60 Ring - 5050 RGBW LED w/ Integrated Drivers - Warm White - 
+~3000K <https://www.adafruit.com/product/2873>
+l2  88 IN STOCK
+l1   Trinket-Powered NeoPixel Goggle Kit Pack 
+<https://www.adafruit.com/product/2221>
+l2  27 IN STOCK
+l1   OctoWS2811 Adapter for Teensy 3.1 - Control tons of NeoPixels! 
+<https://www.adafruit.com/product/1779>
+l2  18 IN STOCK
+l1   NeoPixel Ring - 24 x 5050 RGBW LEDs w/ Integrated Drivers - Warm White - ~3000K
+ <https://www.adafruit.com/product/2861>
+l2  36 IN STOCK
+l1   NeoPixel RGBW LEDs w/ Integrated Driver Chip - Natural White - ~4500K - White 
+Casing - 10 Pack <https://www.adafruit.com/product/2758>
+l2  33 IN STOCK
+l1   NeoPixel RGBW LEDs w/ Integrated Driver Chip - Natural White - ~4500K - Black 
+Casing - 10 Pack <https://www.adafruit.com/product/2761>
+l2  39 IN STOCK
+l1   Breadboard-friendly RGB Smart NeoPixel - Sheet of 25 
+<https://www.adafruit.com/product/1558>
+l2  68 IN STOCK
+l1   Adafruit NeoPixel LED Strip Starter Pack - 30 LED meter - White 
+<https://www.adafruit.com/product/2561>
+l2  44 IN STOCK
+l1   NeoPixel Cool White LED w/ Integrated Driver Chip - 10 Pack - ~6000K 
+<https://www.adafruit.com/product/2375>
+l2  33 IN STOCK
+l1   Adafruit Particle/Spark NeoPixel Ring Kit - 24 NeoPixels 
+<https://www.adafruit.com/product/2268>
+l2  56 IN STOCK
+l1   NeoPixel RGBW LEDs w/ Integrated Driver Chip - Warm White - ~3000K - Black 
+Casing - 10 Pack <https://www.adafruit.com/product/2760>
+l2  90 IN STOCK
+l1   Adafruit NeoPixel LED Strip Starter Pack - 30 LED meter - Black 
+<https://www.adafruit.com/product/2562>
+l2  34 IN STOCK
+l1   Flexible 8x8 NeoPixel RGB LED Matrix <https://www.adafruit.com/product/2612>
+l2  17 IN STOCK
+l1   Costume Goggles <https://www.adafruit.com/product/1577>
+l2  13 IN STOCK
+l1   Adafruit NeoPixel Shield - 40 RGBW - Natural White - ~4500K 
+<https://www.adafruit.com/product/2865>
+l2  31 IN STOCK
+l1   Adafruit NeoPixel NeoMatrix - 64 RGBW - Cool White - ~6000K 
+<https://www.adafruit.com/product/2872>
+l2  75 IN STOCK
+l1   Adafruit NeoPixel Shield - 40 RGBW - Warm White - ~3000K 
+<https://www.adafruit.com/product/2864>
+l2  69 IN STOCK
+l1   Adafruit NeoPixel Shield - 40 RGBW - Cool White - ~6000K 
+<https://www.adafruit.com/product/2866>
+l2  39 IN STOCK
+l1   NeoPixel Warm White LED w/ Integrated Driver Chip - 10 Pack - ~3000K 
+<https://www.adafruit.com/product/2376>
+l2  34 IN STOCK
+l1   NeoPixel RGB 5050 LED with Integrated Driver Chip - 100 Pack 
+<https://www.adafruit.com/product/3094>
+l2  65 IN STOCK
+l1   Adafruit DotStar High Density 8x8 Grid - 64 RGB LED Pixel Matrix 
+<https://www.adafruit.com/product/3444>
+l2  97 IN STOCK
+l1   Adafruit 16x9 Charlieplexed PWM LED Matrix Driver - IS31FL3731 
+<https://www.adafruit.com/product/2946>
+l2  55 IN STOCK
+l1   Adafruit 4-Digit 7-Segment LED Matrix Display FeatherWing 
+<https://www.adafruit.com/product/3088>
+l2  60 IN STOCK
+l1   Adafruit DotStar Digital LED Strip - Black 60 LED - Per Meter - BLACK 
+<https://www.adafruit.com/product/2239>
+l2  8 IN STOCK
+l1   Adafruit Bicolor LED Square Pixel Matrix with I2C Backpack 
+<https://www.adafruit.com/product/902>
+l2  31 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Red 
+<https://www.adafruit.com/product/3108>
+l2  60 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Blue 
+<https://www.adafruit.com/product/3106>
+l2  60 IN STOCK
+l1   Adafruit LED Sequins - Emerald Green - Pack of 5 
+<https://www.adafruit.com/product/1756>
+l2  90 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Blue 
+<https://www.adafruit.com/product/2973>
+l2  17 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Cool White 
+<https://www.adafruit.com/product/2974>
+l2  42 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Red 
+<https://www.adafruit.com/product/2947>
+l2  49 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Yellow 
+<https://www.adafruit.com/product/2948>
+l2  50 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Green 
+<https://www.adafruit.com/product/2972>
+l2  71 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Green 
+<https://www.adafruit.com/product/3107>
+l2  60 IN STOCK
+l1   Tower Light - Red Yellow Green Alert Light with Buzzer - 12VDC 
+<https://www.adafruit.com/product/2993>
+l2  79 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Yellow 
+<https://www.adafruit.com/product/3110>
+l2  60 IN STOCK
+l1   32x32 RGB LED Matrix Panel - 4mm Pitch <https://www.adafruit.com/product/607>
+l2  97 IN STOCK
+l1   64x32 RGB LED Matrix - 3mm pitch <https://www.adafruit.com/product/2279>
+l2  35 IN STOCK
+l1   Wire Light LED Strand - 12 Blue LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/895>
+l2  32 IN STOCK
+l1   Adafruit 1.2" 4-Digit 7-Segment Display w/I2C Backpack - Yellow 
+<https://www.adafruit.com/product/1269>
+l2  72 IN STOCK
+l1   NeoPixel RGBW LEDs w/ Integrated Driver Chip - Natural White - ~4500K - White 
+Casing - 10 Pack <https://www.adafruit.com/product/2758>
+l2  33 IN STOCK
+l1   Flexible 8x32 NeoPixel RGB LED Matrix <https://www.adafruit.com/product/2294>
+l2  77 IN STOCK
+l1   12mm Diffused Flat Digital RGB LED Pixels (Strand of 25) - WS2801 
+<https://www.adafruit.com/product/738>
+l2  94 IN STOCK
+l1   Adafruit 1.2" 4-Digit 7-Segment Display w/I2C Backpack - Green 
+<https://www.adafruit.com/product/1268>
+l2  72 IN STOCK
+l1   NeoPixel RGBW LEDs w/ Integrated Driver Chip - Natural White - ~4500K - Black 
+Casing - 10 Pack <https://www.adafruit.com/product/2761>
+l2  39 IN STOCK
+l1   64x32 RGB LED Matrix - 5mm pitch <https://www.adafruit.com/product/2277>
+l2  90 IN STOCK
+l1   Adafruit DotStar Digital LED Strip - Black 144 LED/m - 0.5 Meter - BLACK 
+<https://www.adafruit.com/product/2328>
+l2  41 IN STOCK
+l1   Adafruit NeoPixel LED Strip Starter Pack - 30 LED meter - White 
+<https://www.adafruit.com/product/2561>
+l2  44 IN STOCK
+l1   12mm Diffused Thin Digital RGB LED Pixels (Strand of 25) - WS2801 
+<https://www.adafruit.com/product/322>
+l2  55 IN STOCK
+l1   Flexible Adafruit DotStar Matrix 8x8 - 64 RGB LED Pixels 
+<https://www.adafruit.com/product/2734>
+l2  22 IN STOCK
+l1   NeoPixel RGBW LEDs w/ Integrated Driver Chip - Warm White - ~3000K - Black 
+Casing - 10 Pack <https://www.adafruit.com/product/2760>
+l2  90 IN STOCK
+l1   Tower Light - Red Alert Light with Buzzer - 12VDC 
+<https://www.adafruit.com/product/2994>
+l2  40 IN STOCK
+l1   Diffused 'Piranha' Super-flux RGB (tri-color) LED (10 pack) 
+<https://www.adafruit.com/product/1451>
+l2  40 IN STOCK
+l1   Adafruit NeoPixel LED Strip Starter Pack - 30 LED meter - Black 
+<https://www.adafruit.com/product/2562>
+l2  34 IN STOCK
+l1   16x24 Red LED Matrix Panel - Chainable HT1632C Driver 
+<https://www.adafruit.com/product/555>
+l2  69 IN STOCK
+l1   Flexible 8x8 NeoPixel RGB LED Matrix <https://www.adafruit.com/product/2612>
+l2  17 IN STOCK
+l1   5mm Chromed Metal Narrow Bevel LED Holder - Pack of 5 
+<https://www.adafruit.com/product/2176>
+l2  90 IN STOCK
+l1   Diffused Red 10mm LED (25 pack) <https://www.adafruit.com/product/845>
+l2  60 IN STOCK
+l1   APA102 5050 Warm White LED w/ Integrated Driver Chip - 10 Pack - ~3000K 
+<https://www.adafruit.com/product/2350>
+l2  29 IN STOCK
+l1   Adafruit DotStar LED Strip - APA102 Cool White - 30 LED/m - ~6000K 
+<https://www.adafruit.com/product/2432>
+l2  25 IN STOCK
+l1   LED Magician - v2.0 <https://www.adafruit.com/product/2650>
+l2  37 IN STOCK
+l1   8mm Chromed Metal Wide Bevel LED Holder - Pack of 5 
+<https://www.adafruit.com/product/2173>
+l2  74 IN STOCK
+l1   Wire Light LED Strand - 12 Red LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/897>
+l2  41 IN STOCK
+l1   APA102 5050 Cool White LED w/ Integrated Driver Chip - 10 Pack - ~6000K 
+<https://www.adafruit.com/product/2351>
+l2  33 IN STOCK
+l1   Adafruit DotStar LED Strip - APA102 Cool White - 144 LED/m - ~6000K - One Meter
+ <https://www.adafruit.com/product/2434>
+l2  1 IN STOCK
+l1   Adafruit DotStar LED Strip - APA102 Cool White - 60 LED/m - ~6000K 
+<https://www.adafruit.com/product/2433>
+l2  12 IN STOCK
+l1   Adafruit DotStar Digital LED Strip - White 144 LED/m - 0.5 Meter - WHITE 
+<https://www.adafruit.com/product/2329>
+l2  17 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Round Red LEDs 
+<https://www.adafruit.com/product/2037>
+l2  63 IN STOCK
+l1   10 Segment Light Bar Graph LED Display - Yellow 
+<https://www.adafruit.com/product/1922>
+l2  28 IN STOCK
+l1   Silicone Caps for Digital Addressable Strips - pack of 4 
+<https://www.adafruit.com/product/774>
+l2  44 IN STOCK
+l1   Analog RGBW LED Strip - RGB plus Cool White - 60 LED/m - ~6000K 
+<https://www.adafruit.com/product/2440>
+l2  12 IN STOCK
+l1   Flexible Adafruit DotStar Matrix 16x16 - 256 RGB LED Pixels 
+<https://www.adafruit.com/product/2735>
+l2  16 IN STOCK
+l1   1.2" 8x8 Matrix Square Pixel - White - KWM-R30881CWB-Y 
+<https://www.adafruit.com/product/1821>
+l2  98 IN STOCK
+l1   Small 1.2" 8x8 Ultra Bright Square White LED Matrix + Backpack 
+<https://www.adafruit.com/product/1857>
+l2  98 IN STOCK
+l1   SMT Cool White 5050 LED - 10 pack - 6500-7000K 
+<https://www.adafruit.com/product/682>
+l2  9 IN STOCK
+l1   Camera-Mount LED Photography Light - CIE Ra 95 - 3200K to 5600K 
+<https://www.adafruit.com/product/2894>
+l2  15 IN STOCK
+l1   DotStar RGB LED Disk - 240mm diameter <https://www.adafruit.com/product/2477>
+l2  30 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Square White LEDs 
+<https://www.adafruit.com/product/2044>
+l2  49 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Round White LEDs 
+<https://www.adafruit.com/product/2038>
+l2  63 IN STOCK
+l1   Wire Light LED Strand - 12 Green LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/896>
+l2  43 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Square Blue LEDs 
+<https://www.adafruit.com/product/2040>
+l2  63 IN STOCK
+l1   RF Touch Wheel Controller for Analog RGB LED Strips 
+<https://www.adafruit.com/product/678>
+l2  22 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Square Amber LEDs 
+<https://www.adafruit.com/product/2041>
+l2  63 IN STOCK
+l1   10 Segment Light Bar Graph LED Display - Yellow-Green 
+<https://www.adafruit.com/product/1923>
+l2  60 IN STOCK
+l1   36mm Square 12V Digital RGB LED Pixels (Strand of 20) - WS2801 
+<https://www.adafruit.com/product/683>
+l2  2 IN STOCK
+l1   30mm Dots - 12V Digital RGB LED Pixels (Strand of 20) - WS2801 
+<https://www.adafruit.com/product/1547>
+l2  44 IN STOCK
+l1   Touch Wheel Controller for Analog RGB LED Strips 
+<https://www.adafruit.com/product/1005>
+l2  14 IN STOCK
+l1   Octolively Kit - Warm White - Tileable Interactive LEDs 
+<https://www.adafruit.com/product/729>
+l2  48 IN STOCK
+l1   Adafruit DotStar LED Strip - APA102 Warm White - 60 LED/m - ~3000K 
+<https://www.adafruit.com/product/2436>
+l2  16 IN STOCK
+l1   1.2" 8x8 Matrix Square Pixel - Yellow - KWM-R30881CUYB 
+<https://www.adafruit.com/product/1819>
+l2  42 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Round Blue LEDs 
+<https://www.adafruit.com/product/2039>
+l2  63 IN STOCK
+l1   75mm Bars - 12V Digital RGB LED Pixels (Strand of 21) - WS2801 
+<https://www.adafruit.com/product/1548>
+l2  25 IN STOCK
+l1   Octolively Kit - Blue - Tileable Interactive LEDs 
+<https://www.adafruit.com/product/728>
+l2  9 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Square Green LEDs 
+<https://www.adafruit.com/product/2042>
+l2  63 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack -Ultra Bright Square Yellow LEDs 
+<https://www.adafruit.com/product/2043>
+l2  21 IN STOCK
+l1   Nootropic RGB Matrix Backpack Kit for 32x32 & 16x32 Panel - v2 
+<https://www.adafruit.com/product/2657>
+l2  7 IN STOCK
+l1   16x8 1.2" LED Matrix+Backpack UltraBright Round YellowGreen LEDs 
+<https://www.adafruit.com/product/2036>
+l2  63 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack-Ultra Bright Round Orange LEDs 
+<https://www.adafruit.com/product/2052>
+l2  63 IN STOCK
+l1   Warm white LED weatherproof flexi-strip 60 LED 
+<https://www.adafruit.com/product/357>
+l2  20 IN STOCK
+l1   Small 1.2" 8x8 Ultra Bright Square Yellow LED Matrix + Backpack 
+<https://www.adafruit.com/product/1855>
+l2  42 IN STOCK
+l1   16x8 1.2" LED Matrix + Backpack - Ultra Bright Round Green LEDs 
+<https://www.adafruit.com/product/2035>
+l2  63 IN STOCK
+l1   Adafruit DotStar High Density 8x8 Grid - 64 RGB LED Pixel Matrix 
+<https://www.adafruit.com/product/3444>
+l2  97 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix FeatherWing - Warm White 
+<https://www.adafruit.com/product/3163>
+l2  21 IN STOCK
+l1   Diffused Yellow 10mm LED (25 pack) <https://www.adafruit.com/product/3260>
+l2  74 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Warm White 
+<https://www.adafruit.com/product/3162>
+l2  63 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing Yellow 
+<https://www.adafruit.com/product/3135>
+l2  57 IN STOCK
+l1   Standard LCD 20x4 + extras - white on blue 
+<https://www.adafruit.com/product/198>
+l2  72 IN STOCK
+l1   OLED Breakout Board - 16-bit Color 1.5" w/microSD holder 
+<https://www.adafruit.com/product/1431>
+l2  37 IN STOCK
+l1   HDMI 5" Display Backpack - Without Touch 
+<https://www.adafruit.com/product/2232>
+l2  20 IN STOCK
+l1   HDMI 5" 800x480 Display Backpack - With Touchscreen 
+<https://www.adafruit.com/product/2260>
+l2  7 IN STOCK
+l1   Adafruit 2.4" TFT LCD with Touchscreen Breakout w/MicroSD Socket - ILI9341 
+<https://www.adafruit.com/product/2478>
+l2  5 IN STOCK
+l1   Monochrome 128x32 I2C OLED graphic display 
+<https://www.adafruit.com/product/931>
+l2  56 IN STOCK
+l1   2.8" TFT LCD with Cap Touch Breakout Board w/MicroSD Socket 
+<https://www.adafruit.com/product/2090>
+l2  57 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 3.5" Diagonal 
+<https://www.adafruit.com/product/913>
+l2  90 IN STOCK
+l1   TFP401 HDMI/DVI Decoder to 40-Pin TTL Breakout - With Touch 
+<https://www.adafruit.com/product/2219>
+l2  32 IN STOCK
+l1   USB + Serial Backpack Kit with 16x2 RGB backlight positive LCD - Black on RGB 
+<https://www.adafruit.com/product/782>
+l2  85 IN STOCK
+l1   Monochrome 2.7" 128x64 OLED Graphic Display Module Kit 
+<https://www.adafruit.com/product/2674>
+l2  96 IN STOCK
+l1   OLED Breakout Board - 16-bit Color 1.27" w/microSD holder 
+<https://www.adafruit.com/product/1673>
+l2  53 IN STOCK
+l1   Adafruit 1.8" Color TFT Shield w/microSD and Joystick 
+<https://www.adafruit.com/product/802>
+l2  11 IN STOCK
+l1   32x32 RGB LED Matrix Panel - 4mm Pitch <https://www.adafruit.com/product/607>
+l2  97 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 2.0" Diagonal 
+<https://www.adafruit.com/product/911>
+l2  16 IN STOCK
+l1   RA8875 Driver Board for 40-pin TFT Touch Displays - 800x480 Max 
+<https://www.adafruit.com/product/1590>
+l2  22 IN STOCK
+l1   PaPiRus 2.7" eInk Display HAT for Raspberry Pi from Pi Supply 
+<https://www.adafruit.com/product/3420>
+l2  61 IN STOCK
+l1   5.0" 40-pin 800x480 TFT Display without Touchscreen 
+<https://www.adafruit.com/product/1680>
+l2  100 IN STOCK
+l1   7" Display 1280x800 (720p) IPS + Speakers - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1667>
+l2  100 IN STOCK
+l1   Adjustable Bent-Wire Stand - up to 7" Tablets and Small Screens 
+<https://www.adafruit.com/product/1679>
+l2  89 IN STOCK
+l1   HDMI 4 Pi: 5" Display (no Touch) w/Mini Driver - 800x480 HDMI 
+<https://www.adafruit.com/product/1928>
+l2  21 IN STOCK
+l1   Adafruit USB + Serial LCD Backpack Add-On with Cable 
+<https://www.adafruit.com/product/781>
+l2  85 IN STOCK
+l1   Monochrome 2.42" 128x64 OLED Graphic Display Module Kit 
+<https://www.adafruit.com/product/2719>
+l2  11 IN STOCK
+l1   Acrylic Stand for 16x2 Character LCD <https://www.adafruit.com/product/1365>
+l2  6 IN STOCK
+l1   OLED Breakout Board - 16-bit Color 0.96" w/microSD holder 
+<https://www.adafruit.com/product/684>
+l2  8 IN STOCK
+l1   2.8" TFT Display with Resistive Touchscreen 
+<https://www.adafruit.com/product/1774>
+l2  80 IN STOCK
+l1   7.0" 40-pin TFT Display - 800x480 without Touchscreen 
+<https://www.adafruit.com/product/2353>
+l2  40 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 2.5" Diagonal 
+<https://www.adafruit.com/product/912>
+l2  60 IN STOCK
+l1   Blue Character OLED 16x2 <https://www.adafruit.com/product/823>
+l2  78 IN STOCK
+l1   40-pin TFT Friend - FPC Breakout with LED Backlight Driver 
+<https://www.adafruit.com/product/1932>
+l2  2 IN STOCK
+l1   HDMI 4 Pi: 7" Display no Touchscreen 1024x600 w/ Mini Driver 
+<https://www.adafruit.com/product/2300>
+l2  5 IN STOCK
+l1   Resistive Touchscreen Overlay - 7" diag. 165mm x 105mm - 4 Wire 
+<https://www.adafruit.com/product/1676>
+l2  18 IN STOCK
+l1   4.3" LCD Capacitive Touchscreen Display Cape for BeagleBone 
+<https://www.adafruit.com/product/3396>
+l2  90 IN STOCK
+l1   16x24 Red LED Matrix Panel - Chainable HT1632C Driver 
+<https://www.adafruit.com/product/555>
+l2  69 IN STOCK
+l1   10.1" Display & Audio 1280x800 IPS - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1694>
+l2  14 IN STOCK
+l1   Analog panel meter - 50uA <https://www.adafruit.com/product/252>
+l2  20 IN STOCK
+l1   USB + Serial Backpack Kit with 16x2 RGB backlight negative LCD - RGB on Black 
+<https://www.adafruit.com/product/784>
+l2  85 IN STOCK
+l1   4.3" 40-pin TFT Display - 480x272 with Touchscreen 
+<https://www.adafruit.com/product/1591>
+l2  17 IN STOCK
+l1   Graphic KS0108 LCD 128x64 + extras - white on blue 
+<https://www.adafruit.com/product/188>
+l2  41 IN STOCK
+l1   HDMI 4 Pi: 7" Display & Audio 1024x600 w/Touchscreen 
+<https://www.adafruit.com/product/2397>
+l2  7 IN STOCK
+l1   Monochrome 2.3" 128x32 OLED Graphic Display Module Kit 
+<https://www.adafruit.com/product/2675>
+l2  10 IN STOCK
+l1   HDMI 4 Pi: 7" Display no Touchscreen 800x480 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1934>
+l2  14 IN STOCK
+l1   HDMI 4 Pi 5" Display not Touchscreen 800x480 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1678>
+l2  9 IN STOCK
+l1   HDMI 4 Pi: 5" Display (w/Touch) 800x480 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/2110>
+l2  6 IN STOCK
+l1   HDMI 4 Pi: 7" Display (no Touch) w/Mini Driver - 800x480 HDMI 
+<https://www.adafruit.com/product/1933>
+l2  4 IN STOCK
+l1   MONOCHRON KS0108 Graphic LCD - white on black 
+<https://www.adafruit.com/product/253>
+l2  4 IN STOCK
+l1   Monochrome 1.54" 128x64 OLED Graphic Display Module Kit 
+<https://www.adafruit.com/product/2720>
+l2  14 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 7" Diagonal 
+<https://www.adafruit.com/product/947>
+l2  6 IN STOCK
+l1   HDMI 4 Pi: 7" Display & Audio 1024x600 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/2301>
+l2  14 IN STOCK
+l1   Adafruit TFT 50pin to 40pin + AR1100 Touchscreen Adapter 
+<https://www.adafruit.com/product/3305>
+l2  24 IN STOCK
+l1   USB/Serial Converter - FT232RL <https://www.adafruit.com/product/18>
+l2  45 IN STOCK
+l1   Thermal paper roll - 50' long, 2.25" wide 
+<https://www.adafruit.com/product/599>
+l2  52 IN STOCK
+l1   MiniPOV 4 Kit - DIY Full-Color POV and Light Painting Kit - v4.0 
+<https://www.adafruit.com/product/1776>
+l2  71 IN STOCK
+l1   Adjustable breadboard power supply kit - v1.0 
+<https://www.adafruit.com/product/184>
+l2  70 IN STOCK
+l1   Pimoroni Picade Console Controller Kit - PIM106 
+<https://www.adafruit.com/product/2707>
+l2  8 IN STOCK
+l1   USBtinyISP AVR Programmer Kit (USB SpokePOV Dongle) - v2.0 
+<https://www.adafruit.com/product/46>
+l2  37 IN STOCK
+l1   Conway's Game of Life Kit - v1.3 <https://www.adafruit.com/product/89>
+l2  88 IN STOCK
+l1   Chibitronics Color LEDs Add-On Pack <https://www.adafruit.com/product/1976>
+l2  80 IN STOCK
+l1   Mini Thermal Receipt Printer Starter Pack 
+<https://www.adafruit.com/product/600>
+l2  52 IN STOCK
+l1   Assembled Drawdio fun pack - v1.1 <https://www.adafruit.com/product/197>
+l2  21 IN STOCK
+l1   Large Plastic Project Enclosure - Weatherproof with Clear Top 
+<https://www.adafruit.com/product/905>
+l2  2 IN STOCK
+l1   Cupcade: the Raspberry Pi-Powered Micro Arcade Cabinet Kit - v1.0 
+<https://www.adafruit.com/product/1783>
+l2  6 IN STOCK
+l1   Copper Foil Tape with Conductive Adhesive - 25mm x 15 meter roll 
+<https://www.adafruit.com/product/1127>
+l2  76 IN STOCK
+l1   Chibitronics White LEDs Add-On Pack <https://www.adafruit.com/product/1977>
+l2  19 IN STOCK
+l1   Companion Parts Pack for Adventures in Raspberry Pi 
+<https://www.adafruit.com/product/1775>
+l2  61 IN STOCK
+l1   Art Controller Relay Board Kit <https://www.adafruit.com/product/1038>
+l2  43 IN STOCK
+l1   Extruded Aluminum Box - 100mm x 67mm x 26mm 
+<https://www.adafruit.com/product/2229>
+l2  87 IN STOCK
+l1   The Pinhole Planetarium Kit from Gakken <https://www.adafruit.com/product/1811>
+l2  39 IN STOCK
+l1   NeTV Starter Pack <https://www.adafruit.com/product/609>
+l2  4 IN STOCK
+l1   Chibitronics Effects Add-On Pack <https://www.adafruit.com/product/1974>
+l2  7 IN STOCK
+l1   Android - Skill badge, iron-on patch <https://www.adafruit.com/product/551>
+l2  26 IN STOCK
+l1   Chibitronics Sensors Add-On Pack <https://www.adafruit.com/product/1975>
+l2  36 IN STOCK
+l1   Mini Electric Guitar Kit from Gakken <https://www.adafruit.com/product/1832>
+l2  6 IN STOCK
+l1   Chibitronics Starter Kit <https://www.adafruit.com/product/1972>
+l2  54 IN STOCK
+l1   Solder:Time DIY watch kit <https://www.adafruit.com/product/495>
+l2  21 IN STOCK
+l1   "Three Fives" Discrete 555 Timer Kit - v2.0 
+<https://www.adafruit.com/product/1526>
+l2  30 IN STOCK
+l1   MONOCHRON Clock kit - Open source clock platform, make clocks! - v1.0 
+<https://www.adafruit.com/product/204>
+l2  6 IN STOCK
+l1   Adalight - DIY Ambient Monitor Lighting Project Pack 
+<https://www.adafruit.com/product/461>
+l2  55 IN STOCK
+l1   Ice Tube clear acrylic enclosure <https://www.adafruit.com/product/235>
+l2  12 IN STOCK
+l1   Octolively Kit - Warm White - Tileable Interactive LEDs 
+<https://www.adafruit.com/product/729>
+l2  48 IN STOCK
+l1   TIMESQUARE DIY Watch Kit - Lime Display Matrix 
+<https://www.adafruit.com/product/1224>
+l2  4 IN STOCK
+l1   Barebones AVR dev. board <https://www.adafruit.com/product/174>
+l2  13 IN STOCK
+l1   BlinkyTile - Light Sculpture Kit <https://www.adafruit.com/product/2418>
+l2  53 IN STOCK
+l1   MONOCHRON KS0108 Graphic LCD - white on black 
+<https://www.adafruit.com/product/253>
+l2  4 IN STOCK
+l1   SpikenzieLabs Calculator Kit <https://www.adafruit.com/product/1308>
+l2  38 IN STOCK
+l1   Adafruit UNTZtrument! Open-Source 8x8 Grid Controller Kit - 8x8 White LEDs 
+<https://www.adafruit.com/product/1929>
+l2  13 IN STOCK
+l1   Budget Pack for Raspberry Pi 1 Model B (Doesn't include RasPi) 
+<https://www.adafruit.com/product/965>
+l2  11 IN STOCK
+l1   Android - Sticker! <https://www.adafruit.com/product/686>
+l2  96 IN STOCK
+l1   Theo Jansen's Mini Strandbeest Kit by Gakken 
+<https://www.adafruit.com/product/1835>
+l2  35 IN STOCK
+l1   Uzebox Starter Kit - v1.0 <https://www.adafruit.com/product/1291>
+l2  17 IN STOCK
+l1   Adafruit MENTA - Mint Tin Arduino Compatible Kit with Mint Tin 
+<https://www.adafruit.com/product/795>
+l2  18 IN STOCK
+l1   Lumi Shadow Printing Kit <https://www.adafruit.com/product/1925>
+l2  3 IN STOCK
+l1   Spikenzielabs Rainbow Light Show Kit <https://www.adafruit.com/product/2602>
+l2  5 IN STOCK
+l1   35mm Twin Lens Reflex Camera Kit from Gakken 
+<https://www.adafruit.com/product/1823>
+l2  9 IN STOCK
+l1   Evil Mad Scientist Labs Mega Menorah 9000 
+<https://www.adafruit.com/product/2291>
+l2  17 IN STOCK
+l1   UNTZtrument Add-on Acrylic Tweaker/Hacker Panel 
+<https://www.adafruit.com/product/1945>
+l2  16 IN STOCK
+l1   Bulbdial Clock kit - color LED with black/smoke case 
+<https://www.adafruit.com/product/240>
+l2  1 IN STOCK
+l1   Solder:Time II DIY watch kit <https://www.adafruit.com/product/950>
+l2  18 IN STOCK
+l1   MONOCHRON enclosure <https://www.adafruit.com/product/236>
+l2  2 IN STOCK
+l1   AKARI Origami LED Lamp Shade Kit from Gakken 
+<https://www.adafruit.com/product/1834>
+l2  15 IN STOCK
+l1   Solder:Time Desk Clock <https://www.adafruit.com/product/1530>
+l2  9 IN STOCK
+l1   The Original Egg-Bot! - Deluxe Kit! <https://www.adafruit.com/product/304>
+l2  5 IN STOCK
+l1   Delta Twister Flying Machine Kit by Gakken 
+<https://www.adafruit.com/product/1844>
+l2  17 IN STOCK
+l1   Octolively Kit - Blue - Tileable Interactive LEDs 
+<https://www.adafruit.com/product/728>
+l2  9 IN STOCK
+l1   AdaBox002 – Making Things Move - Feather Bluetooth LE Mini Robot  
+<https://www.adafruit.com/product/3235>
+l2  26 IN STOCK
+l1   Thermal Receipt Printer Guts <https://www.adafruit.com/product/2753>
+l2  33 IN STOCK
+l1   Adafruit Metro Starter Pack <https://www.adafruit.com/product/3345>
+l2  68 IN STOCK
+l1   Pimoroni Picade Controller PCB - PIM110 <https://www.adafruit.com/product/2708>
+l2  40 IN STOCK
+l1   Fibonacci Clock Kit <https://www.adafruit.com/product/3117>
+l2  21 IN STOCK
+l1   Infinity Shred's Datadealer Synth Kit <https://www.adafruit.com/product/3280>
+l2  23 IN STOCK
+l1   The EggBot Pro <https://www.adafruit.com/product/2131>
+l2  7 IN STOCK
+l1   Theo Jansen's Mini Rhinoceros Kit by Gakken 
+<https://www.adafruit.com/product/1842>
+l2  13 IN STOCK
+l1   Punk LED Collar Kit - Red LEDs <https://www.adafruit.com/product/1454>
+l2  9 IN STOCK
+l1   Adafruit HELLA UNTZtrument! Open-Source 16x8 Grid Controller Kit - White LEDs 
+<https://www.adafruit.com/product/1999>
+l2  5 IN STOCK
+l1   USB game pad with accelerometer project pack 
+<https://www.adafruit.com/product/241>
+l2  3 IN STOCK
+l1   Alpha Clock Five - RED - From Evil Mad Scientist Labs! 
+<https://www.adafruit.com/product/620>
+l2  6 IN STOCK
+l1   Steel Drum Kit by Gakken <https://www.adafruit.com/product/2333>
+l2  10 IN STOCK
+l1   Flotilla Mega Treasure Chest Starter Kit 
+<https://www.adafruit.com/product/3247>
+l2  25 IN STOCK
+l1   HELLA UNTZtrument Add-on Acrylic Tweaker/Hacker Panel 
+<https://www.adafruit.com/product/2013>
+l2  2 IN STOCK
+l1   Alpha Clock Five - WHITE - From Evil Mad Scientist Labs! 
+<https://www.adafruit.com/product/1198>
+l2  3 IN STOCK
+l1   Lumi Sunfold Printing Kit <https://www.adafruit.com/product/1924>
+l2  5 IN STOCK
+l1   Adafruit Feather M0 Bluefruit LE <https://www.adafruit.com/product/2995>
+l2  21 IN STOCK
+l1   Adafruit Bluefruit LE SPI Friend - Bluetooth Low Energy (BLE) 
+<https://www.adafruit.com/product/2633>
+l2  1 IN STOCK
+l1   Adafruit FONA 808 - Mini Cellular GSM + GPS Breakout 
+<https://www.adafruit.com/product/2542>
+l2  34 IN STOCK
+l1   Adafruit FONA - Mini Cellular GSM Breakout uFL Version 
+<https://www.adafruit.com/product/1946>
+l2  48 IN STOCK
+l1   Adafruit FONA - Mini Cellular GSM Breakout - SMA Version - v1 
+<https://www.adafruit.com/product/1963>
+l2  21 IN STOCK
+l1   Microsoft Azure IoT Starter Kit w/ Adafruit Feather HUZZAH 
+<https://www.adafruit.com/product/3032>
+l2  16 IN STOCK
+l1   Espressif ESP32 WROVER KIT <https://www.adafruit.com/product/3384>
+l2  82 IN STOCK
+l1   Adafruit Particle/Spark NeoPixel Ring Kit - 24 NeoPixels 
+<https://www.adafruit.com/product/2268>
+l2  56 IN STOCK
+l1   LightBlue Bean <https://www.adafruit.com/product/2732>
+l2  52 IN STOCK
+l1   Microsoft Azure IoT Starter Kit w/ Adafruit Feather M0 WiFi 
+<https://www.adafruit.com/product/3031>
+l2  29 IN STOCK
+l1   Bluetooth / WiFi Combination USB Dongle <https://www.adafruit.com/product/2649>
+l2  39 IN STOCK
+l1   Expansion Board for WiPy IOT Development Platform 
+<https://www.adafruit.com/product/2960>
+l2  82 IN STOCK
+l1   SIM808 GSM + GPRS + GPS Cellular Module <https://www.adafruit.com/product/2637>
+l2  31 IN STOCK
+l1   LightBlue Bean+ <https://www.adafruit.com/product/3254>
+l2  21 IN STOCK
+l1   Esquilo Air <https://www.adafruit.com/product/2705>
+l2  4 IN STOCK
+l1   Electret Microphone Amplifier - MAX9814 with Auto Gain Control 
+<https://www.adafruit.com/product/1713>
+l2  98 IN STOCK
+l1   Membrane 3x4 Matrix Keypad + extras - 3x4 
+<https://www.adafruit.com/product/419>
+l2  81 IN STOCK
+l1   Standalone Momentary Capacitive Touch Sensor Breakout - AT42QT1010 
+<https://www.adafruit.com/product/1374>
+l2  86 IN STOCK
+l1   Stereo 20W Class D Audio Amplifier - MAX9744 
+<https://www.adafruit.com/product/1752>
+l2  89 IN STOCK
+l1   Adafruit Audio FX Sound Board - WAV/OGG Trigger with 16MB Flash 
+<https://www.adafruit.com/product/2220>
+l2  64 IN STOCK
+l1   Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1 
+<https://www.adafruit.com/product/1905>
+l2  33 IN STOCK
+l1   Adafruit Bicolor LED Square Pixel Matrix with I2C Backpack 
+<https://www.adafruit.com/product/902>
+l2  31 IN STOCK
+l1   Adafruit LED Sequins - Emerald Green - Pack of 5 
+<https://www.adafruit.com/product/1756>
+l2  90 IN STOCK
+l1   Adafruit Audio FX Sound Board - WAV/OGG Trigger with 2MB Flash 
+<https://www.adafruit.com/product/2133>
+l2  85 IN STOCK
+l1   CAP1188 - 8-Key Capacitive Touch Sensor Breakout - I2C or SPI 
+<https://www.adafruit.com/product/1602>
+l2  26 IN STOCK
+l1   Waterproof 2xAA Battery Holder with On/Off Switch 
+<https://www.adafruit.com/product/770>
+l2  24 IN STOCK
+l1   Miniature TTL Serial JPEG Camera with NTSC Video 
+<https://www.adafruit.com/product/1386>
+l2  9 IN STOCK
+l1   Arduino Starter Kit from Arduino.cc <https://www.adafruit.com/product/1078>
+l2  65 IN STOCK
+l1   Magnetic Pin Back <https://www.adafruit.com/product/1170>
+l2  7 IN STOCK
+l1   Conductive Hook & Loop Tape - 3" long <https://www.adafruit.com/product/1324>
+l2  92 IN STOCK
+l1   Sugru - Black and White Pack <https://www.adafruit.com/product/437>
+l2  74 IN STOCK
+l1   Wire Light LED Strand - 12 Blue LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/895>
+l2  32 IN STOCK
+l1   DIY Sensor Film Kit - 4x6" Small Kit <https://www.adafruit.com/product/1917>
+l2  63 IN STOCK
+l1   High Brightness Red Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/403>
+l2  70 IN STOCK
+l1   Melexis Contact-less Infrared Sensor - MLX90614 5V 
+<https://www.adafruit.com/product/1748>
+l2  90 IN STOCK
+l1   Heart Rate Educational Starter Pack with Polar Wireless Sensors 
+<https://www.adafruit.com/product/1077>
+l2  99 IN STOCK
+l1   Red Electroluminescent (EL) Tape Strip - 100cm w/two connectors 
+<https://www.adafruit.com/product/445>
+l2  83 IN STOCK
+l1   FLORA GPS Starter Pack <https://www.adafruit.com/product/1090>
+l2  63 IN STOCK
+l1   Raspberry Pi Model B starter pack Doesn't include Raspberry Pi 1 
+<https://www.adafruit.com/product/955>
+l2  15 IN STOCK
+l1   Silicone Cicoil Wire Cable - 4-pin 24AWG 
+<https://www.adafruit.com/product/1437>
+l2  56 IN STOCK
+l1   White Electroluminescent (EL) Tape Strip -100cm w/two connectors 
+<https://www.adafruit.com/product/416>
+l2  15 IN STOCK
+l1   Music & sound add-on pack for Arduino - v1.1 
+<https://www.adafruit.com/product/175>
+l2  23 IN STOCK
+l1   High Brightness Orange Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/405>
+l2  84 IN STOCK
+l1   Diffused Red 10mm LED (25 pack) <https://www.adafruit.com/product/845>
+l2  60 IN STOCK
+l1   High Brightness Yellow Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/406>
+l2  91 IN STOCK
+l1   Green Electroluminescent (EL) Tape Strip - 100cm w/2 connectors 
+<https://www.adafruit.com/product/446>
+l2  23 IN STOCK
+l1   Electroluminescent (EL) Panel - 10cm x 10cm Blue 
+<https://www.adafruit.com/product/624>
+l2  40 IN STOCK
+l1   Wire Light LED Strand - 12 Red LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/897>
+l2  41 IN STOCK
+l1   EL Wire 6V Sound Activated Pocket Inverter 
+<https://www.adafruit.com/product/831>
+l2  20 IN STOCK
+l1   Costume Goggles <https://www.adafruit.com/product/1577>
+l2  13 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HRLV-EZ1 - HRLV-EZ1 
+<https://www.adafruit.com/product/984>
+l2  39 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HRLV-EZ0 - HRLV-EZ0 
+<https://www.adafruit.com/product/983>
+l2  56 IN STOCK
+l1   Stainless Steel Conductive Ribbon - 5mm wide 1 meter long 
+<https://www.adafruit.com/product/1244>
+l2  41 IN STOCK
+l1   Litex White LEDs on Black Fabric Ribbon Pack - 1.5 meter 30 LEDs 
+<https://www.adafruit.com/product/1397>
+l2  28 IN STOCK
+l1   Lithium Ion Coin Cell Charger <https://www.adafruit.com/product/1573>
+l2  39 IN STOCK
+l1   1.2" 8x8 Matrix Square Pixel - White - KWM-R30881CWB-Y 
+<https://www.adafruit.com/product/1821>
+l2  98 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - LV-EZ3 - LV-EZ3 
+<https://www.adafruit.com/product/981>
+l2  52 IN STOCK
+l1   Small 1.2" 8x8 Ultra Bright Square White LED Matrix + Backpack 
+<https://www.adafruit.com/product/1857>
+l2  98 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HRLV-EZ4 - HRLV-EZ4 
+<https://www.adafruit.com/product/985>
+l2  19 IN STOCK
+l1   High Brightness Pink Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/404>
+l2  84 IN STOCK
+l1   Wire Light LED Strand - 12 Green LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/896>
+l2  43 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - HR-USB-EZ1 - MB1413 
+<https://www.adafruit.com/product/1343>
+l2  34 IN STOCK
+l1   Maxbotix Ultrasonic Rangefinder - LV-EZ2 - LV-EZ2 
+<https://www.adafruit.com/product/980>
+l2  74 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - White 
+<https://www.adafruit.com/product/635>
+l2  15 IN STOCK
+l1   Sewable Electroluminscent (EL) Wire Welted Piping- Aqua 5 meters 
+<https://www.adafruit.com/product/675>
+l2  5 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - Green 
+<https://www.adafruit.com/product/634>
+l2  23 IN STOCK
+l1   Electroluminescent (EL) Panel Starter Pack - 10cm x 10cm Aqua 
+<https://www.adafruit.com/product/627>
+l2  20 IN STOCK
+l1   Octolively Kit - Warm White - Tileable Interactive LEDs 
+<https://www.adafruit.com/product/729>
+l2  48 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - Red 
+<https://www.adafruit.com/product/631>
+l2  83 IN STOCK
+l1   1.2" 8x8 Matrix Square Pixel - Yellow - KWM-R30881CUYB 
+<https://www.adafruit.com/product/1819>
+l2  42 IN STOCK
+l1   Litex White LEDs on White Fabric Ribbon Pack - 1.5 meter 30 LEDs 
+<https://www.adafruit.com/product/1398>
+l2  16 IN STOCK
+l1   Litex Spare Battery Case <https://www.adafruit.com/product/1355>
+l2  19 IN STOCK
+l1   Electroluminescent (EL) Panel Starter Pack - 10cm x 10cm Blue 
+<https://www.adafruit.com/product/629>
+l2  40 IN STOCK
+l1   Litex White LEDs on Black Fabric Ribbon Pack 
+<https://www.adafruit.com/product/1353>
+l2  12 IN STOCK
+l1   Punk LED Collar Kit - Red LEDs <https://www.adafruit.com/product/1454>
+l2  9 IN STOCK
+l1   Small 1.2" 8x8 Ultra Bright Square Yellow LED Matrix + Backpack 
+<https://www.adafruit.com/product/1855>
+l2  42 IN STOCK
+l1   Litex White LEDs on White Fabric Ribbon Pack - 21" 10 LEDs 
+<https://www.adafruit.com/product/1354>
+l2  11 IN STOCK
+l1   1,000 Incredible Costume & Cosplay Ideas 
+<https://www.adafruit.com/product/2208>
+l2  3 IN STOCK
+l1   Cosplay World by Brian Ashcraft and Luke Plunkett 
+<https://www.adafruit.com/product/2224>
+l2  1 IN STOCK
+l1   Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H 
+<https://www.adafruit.com/product/3421>
+l2  79 IN STOCK
+l1   Silver Pin Back with Foam Adhesive <https://www.adafruit.com/product/2838>
+l2  52 IN STOCK
+l1   Hackers Blu-ray - 20th anniversary edition 
+<https://www.adafruit.com/product/2715>
+l2  9 IN STOCK
+l1   AdaBox002 – Making Things Move - Feather Bluetooth LE Mini Robot  
+<https://www.adafruit.com/product/3235>
+l2  26 IN STOCK
+l1   Ladyada's Electronics Toolkit <https://www.adafruit.com/product/136>
+l2  14 IN STOCK
+l1   Raspberry Pi Arcade Cabinet Pack <https://www.adafruit.com/product/3272>
+l2  21 IN STOCK
+l1   Pi Powered Times Square Traveler Pack <https://www.adafruit.com/product/3273>
+l2  38 IN STOCK
+l1   Raspberry Pi DIY Camera Pack <https://www.adafruit.com/product/3275>
+l2  100 IN STOCK
+l1   Flotilla Mega Treasure Chest Starter Kit 
+<https://www.adafruit.com/product/3247>
+l2  25 IN STOCK
+l1   Evil Mad Scientist Labs Mega Menorah 9000 
+<https://www.adafruit.com/product/2291>
+l2  17 IN STOCK
+l1   High Brightness Red Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/403>
+l2  70 IN STOCK
+l1   Copper Foil Tape with Conductive Adhesive - 25mm x 15 meter roll 
+<https://www.adafruit.com/product/1127>
+l2  76 IN STOCK
+l1   Red Electroluminescent (EL) Tape Strip - 100cm w/two connectors 
+<https://www.adafruit.com/product/445>
+l2  83 IN STOCK
+l1   White Electroluminescent (EL) Tape Strip -100cm w/two connectors 
+<https://www.adafruit.com/product/416>
+l2  15 IN STOCK
+l1   High Brightness Orange Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/405>
+l2  84 IN STOCK
+l1   Electroluminescent (EL) Panel - 20cm x 15cm Aqua 
+<https://www.adafruit.com/product/414>
+l2  33 IN STOCK
+l1   High Brightness Yellow Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/406>
+l2  91 IN STOCK
+l1   Green Electroluminescent (EL) Tape Strip - 100cm w/2 connectors 
+<https://www.adafruit.com/product/446>
+l2  23 IN STOCK
+l1   Electroluminescent (EL) Panel - 10cm x 10cm Blue 
+<https://www.adafruit.com/product/624>
+l2  40 IN STOCK
+l1   EL Wire 12V Sound Activated Pocket Inverter 
+<https://www.adafruit.com/product/832>
+l2  46 IN STOCK
+l1   Electroluminescent (EL) Panel - 10cm x 10cm Aqua 
+<https://www.adafruit.com/product/623>
+l2  20 IN STOCK
+l1   EL Wire 6V Sound Activated Pocket Inverter 
+<https://www.adafruit.com/product/831>
+l2  20 IN STOCK
+l1   EL Wire 1xAAA Mini Inverter <https://www.adafruit.com/product/1349>
+l2  56 IN STOCK
+l1   High Brightness Pink Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/404>
+l2  84 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - White 
+<https://www.adafruit.com/product/635>
+l2  15 IN STOCK
+l1   Sewable Electroluminscent (EL) Wire Welted Piping- Aqua 5 meters 
+<https://www.adafruit.com/product/675>
+l2  5 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - Green 
+<https://www.adafruit.com/product/634>
+l2  23 IN STOCK
+l1   Electroluminescent (EL) Panel Starter Pack - 10cm x 10cm Aqua 
+<https://www.adafruit.com/product/627>
+l2  20 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - Red 
+<https://www.adafruit.com/product/631>
+l2  83 IN STOCK
+l1   EL Flowing Effect Wire with Inverter - Green 2.0 meter (6.5 ft) 
+<https://www.adafruit.com/product/952>
+l2  3 IN STOCK
+l1   EL Flowing Effect Wire with Inverter - Pink 2.0 meter (6.5 ft) 
+<https://www.adafruit.com/product/953>
+l2  10 IN STOCK
+l1   Electroluminescent (EL) Panel Starter Pack - 10cm x 10cm Blue 
+<https://www.adafruit.com/product/629>
+l2  40 IN STOCK
+l1   Adafruit Power Relay FeatherWing <https://www.adafruit.com/product/3191>
+l2  84 IN STOCK
+l1   Teensy 3.x Feather Adapter <https://www.adafruit.com/product/3200>
+l2  99 IN STOCK
+l1   Adafruit Feather M0 Bluefruit LE <https://www.adafruit.com/product/2995>
+l2  21 IN STOCK
+l1   Adafruit METRO 328 with Headers - ATmega328 
+<https://www.adafruit.com/product/2488>
+l2  68 IN STOCK
+l1   Adafruit Feather M0 RFM69HCW Packet Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3176>
+l2  51 IN STOCK
+l1   Adafruit Feather M0 Basic Proto - ATSAMD21 Cortex M0 
+<https://www.adafruit.com/product/2772>
+l2  31 IN STOCK
+l1   Adafruit Feather 32u4 RFM69HCW Packet Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3076>
+l2  30 IN STOCK
+l1   Adafruit Feather 32u4 RFM95 LoRa Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3078>
+l2  59 IN STOCK
+l1   SWD (2x5 1.27mm) Cable Breakout Board <https://www.adafruit.com/product/2743>
+l2  57 IN STOCK
+l1   Adafruit Latching Mini Relay FeatherWing 
+<https://www.adafruit.com/product/2923>
+l2  19 IN STOCK
+l1   8-Channel PWM or Servo FeatherWing Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2928>
+l2  39 IN STOCK
+l1   NeoPixel FeatherWing - 4x8 RGB LED Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2945>
+l2  55 IN STOCK
+l1   MicroPython pyboard - v1.1 <https://www.adafruit.com/product/2390>
+l2  74 IN STOCK
+l1   DC Motor + Stepper FeatherWing Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2927>
+l2  3 IN STOCK
+l1   Adafruit Feather M0 RFM69HCW Packet Radio - 433MHz 
+<https://www.adafruit.com/product/3177>
+l2  63 IN STOCK
+l1   Adafruit Non-Latching Mini Relay FeatherWing 
+<https://www.adafruit.com/product/2895>
+l2  46 IN STOCK
+l1   Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz 
+<https://www.adafruit.com/product/3077>
+l2  15 IN STOCK
+l1   DS3231 Precision RTC FeatherWing - RTC Add-on For Feather Boards 
+<https://www.adafruit.com/product/3028>
+l2  97 IN STOCK
+l1   Trinket-Powered NeoPixel Goggle Kit Pack 
+<https://www.adafruit.com/product/2221>
+l2  27 IN STOCK
+l1   USBtinyISP AVR Programmer Kit (USB SpokePOV Dongle) - v2.0 
+<https://www.adafruit.com/product/46>
+l2  37 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing Yellow 
+<https://www.adafruit.com/product/3135>
+l2  57 IN STOCK
+l1   Arduino M0 Pro - 32 bit Cortex M0 with Debug Interface 
+<https://www.adafruit.com/product/2417>
+l2  6 IN STOCK
+l1   SEGGER J-Link EDU - JTAG/SWD Debugger <https://www.adafruit.com/product/1369>
+l2  51 IN STOCK
+l1   SmartMatrix SD Shield v3 - for Teensy 3.2 
+<https://www.adafruit.com/product/1902>
+l2  26 IN STOCK
+l1   70-pin Hirose Receptacle Header for Intel Edison - 3mm Height - Hirose 
+DF40HC(3.0)-70DS <https://www.adafruit.com/product/2227>
+l2  68 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix FeatherWing - Warm White 
+<https://www.adafruit.com/product/3163>
+l2  21 IN STOCK
+l1   Intel® Edison Compute Module <https://www.adafruit.com/product/2112>
+l2  68 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Red 
+<https://www.adafruit.com/product/3108>
+l2  60 IN STOCK
+l1   Mojo FPGA Development Board <https://www.adafruit.com/product/1553>
+l2  36 IN STOCK
+l1   PJRC Prop Shield with Motion Sensor for Teensy 3.2 and Teensy-LC 
+<https://www.adafruit.com/product/3085>
+l2  100 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Blue 
+<https://www.adafruit.com/product/3106>
+l2  60 IN STOCK
+l1   Atmega32u4 Breakout Board <https://www.adafruit.com/product/296>
+l2  78 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Green 
+<https://www.adafruit.com/product/3107>
+l2  60 IN STOCK
+l1   IBDAP - CMSIS-DAP JTAG/SWD Debug Adapter Kit 
+<https://www.adafruit.com/product/2764>
+l2  82 IN STOCK
+l1   Adafruit 4-Digit 7-Segment LED Matrix Display FeatherWing 
+<https://www.adafruit.com/product/3088>
+l2  60 IN STOCK
+l1   DE0-Nano - Altera Cyclone IV FPGA starter board 
+<https://www.adafruit.com/product/451>
+l2  18 IN STOCK
+l1   Intel® Edison R2 Kit w/ Arduino Breakout Board 
+<https://www.adafruit.com/product/2180>
+l2  77 IN STOCK
+l1   Getting Started with Trinket Book + NeoPixel Goggles Pack 
+<https://www.adafruit.com/product/2290>
+l2  27 IN STOCK
+l1   Intel® Galileo Development Board (Gen 2) - Arduino Certified - Gen 2 
+<https://www.adafruit.com/product/2188>
+l2  25 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Yellow 
+<https://www.adafruit.com/product/3110>
+l2  60 IN STOCK
+l1   Patch shield for Arduino - v5.01 <https://www.adafruit.com/product/256>
+l2  14 IN STOCK
+l1   RCA (Composite Video, Audio) Cable 6 feet 
+<https://www.adafruit.com/product/863>
+l2  40 IN STOCK
+l1   SEGGER J-Link BASE - JTAG/SWD Debugger <https://www.adafruit.com/product/2209>
+l2  33 IN STOCK
+l1   Barebones AVR dev. board <https://www.adafruit.com/product/174>
+l2  13 IN STOCK
+l1   LPC810 Mini Starter Pack <https://www.adafruit.com/product/1336>
+l2  16 IN STOCK
+l1   Espruino 1.4 - Open Source Javascript Microcontroller 
+<https://www.adafruit.com/product/1887>
+l2  34 IN STOCK
+l1   Getting Started with Trinket Book + Adafruit Trinket 5V Kit Pack 
+<https://www.adafruit.com/product/2289>
+l2  83 IN STOCK
+l1   mbed + extras - LPC1768 development board - v5.1 
+<https://www.adafruit.com/product/834>
+l2  57 IN STOCK
+l1   mbed and NFC/RFID Starter Pack <https://www.adafruit.com/product/836>
+l2  1 IN STOCK
+l1   mbed Application Board <https://www.adafruit.com/product/1323>
+l2  14 IN STOCK
+l1   USBtinyISP microcontroller <https://www.adafruit.com/product/54>
+l2  79 IN STOCK
+l1   Esquilo Air <https://www.adafruit.com/product/2705>
+l2  4 IN STOCK
+l1   Adafruit Radio FeatherWing - RFM69HCW 433MHz 
+<https://www.adafruit.com/product/3230>
+l2  91 IN STOCK
+l1   Adafruit Radio FeatherWing - RFM69HCW 900MHz 
+<https://www.adafruit.com/product/3229>
+l2  7 IN STOCK
+l1   Python for Microcontrollers: Getting Started with MicroPython 
+<https://www.adafruit.com/product/3325>
+l2  73 IN STOCK
+l1   Adafruit Metro Starter Pack <https://www.adafruit.com/product/3345>
+l2  68 IN STOCK
+l1   Python for Kids - A Playful Introduction to Programming 
+<https://www.adafruit.com/product/1161>
+l2  4 IN STOCK
+l1   Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H 
+<https://www.adafruit.com/product/3421>
+l2  79 IN STOCK
+l1   Adafruit Audio FX Sound Board - WAV/OGG Trigger with 16MB Flash 
+<https://www.adafruit.com/product/2220>
+l2  64 IN STOCK
+l1   Adafruit LED Sequins - Emerald Green - Pack of 5 
+<https://www.adafruit.com/product/1756>
+l2  90 IN STOCK
+l1   Waterproof 2xAA Battery Holder with On/Off Switch 
+<https://www.adafruit.com/product/770>
+l2  24 IN STOCK
+l1   Arduino Starter Kit from Arduino.cc <https://www.adafruit.com/product/1078>
+l2  65 IN STOCK
+l1   Adafruit Audio FX Sound Board - WAV/OGG Trigger with 2MB Flash 
+<https://www.adafruit.com/product/2133>
+l2  85 IN STOCK
+l1   Conductive Hook & Loop Tape - 3" long <https://www.adafruit.com/product/1324>
+l2  92 IN STOCK
+l1   Magnetic Pin Back <https://www.adafruit.com/product/1170>
+l2  7 IN STOCK
+l1   Silver Pin Back with Foam Adhesive <https://www.adafruit.com/product/2838>
+l2  52 IN STOCK
+l1   Sugru - Black and White Pack <https://www.adafruit.com/product/437>
+l2  74 IN STOCK
+l1   Flora UV Index Sensor - Si1145 Light Sensor 
+<https://www.adafruit.com/product/1981>
+l2  79 IN STOCK
+l1   DIY Sensor Film Kit - 4x6" Small Kit <https://www.adafruit.com/product/1917>
+l2  63 IN STOCK
+l1   Adafruit Half-size Perma-Proto Raspberry Pi Breadboard PCB Kit 
+<https://www.adafruit.com/product/1148>
+l2  72 IN STOCK
+l1   Red Electroluminescent (EL) Tape Strip - 100cm w/two connectors 
+<https://www.adafruit.com/product/445>
+l2  83 IN STOCK
+l1   Adafruit Small-Size Perma-Proto Raspberry Pi Breadboard PCB Kit 
+<https://www.adafruit.com/product/1171>
+l2  4 IN STOCK
+l1   White Electroluminescent (EL) Tape Strip -100cm w/two connectors 
+<https://www.adafruit.com/product/416>
+l2  15 IN STOCK
+l1   High Brightness Red Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/403>
+l2  70 IN STOCK
+l1   Green Electroluminescent (EL) Tape Strip - 100cm w/2 connectors 
+<https://www.adafruit.com/product/446>
+l2  23 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - White 
+<https://www.adafruit.com/product/635>
+l2  15 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - Green 
+<https://www.adafruit.com/product/634>
+l2  23 IN STOCK
+l1   Silicone Cicoil Wire Cable - 4-pin 24AWG 
+<https://www.adafruit.com/product/1437>
+l2  56 IN STOCK
+l1   Electroluminescent (EL) Panel Starter Pack - 10cm x 10cm Aqua 
+<https://www.adafruit.com/product/627>
+l2  20 IN STOCK
+l1   Music & sound add-on pack for Arduino - v1.1 
+<https://www.adafruit.com/product/175>
+l2  23 IN STOCK
+l1   Wire Light LED Strand - 12 Red LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/897>
+l2  41 IN STOCK
+l1   Electroluminescent (EL) Panel - 10cm x 10cm Blue 
+<https://www.adafruit.com/product/624>
+l2  40 IN STOCK
+l1   High Brightness Yellow Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/406>
+l2  91 IN STOCK
+l1   High Brightness Pink Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/404>
+l2  84 IN STOCK
+l1   High Brightness Orange Electroluminescent (EL) Wire - 2.5 meters - High 
+brightness, long life <https://www.adafruit.com/product/405>
+l2  84 IN STOCK
+l1   EL Wire 1xAAA Mini Inverter <https://www.adafruit.com/product/1349>
+l2  56 IN STOCK
+l1   Electroluminescent (EL) Tape/Strip Starter Pack - 100cm - Red 
+<https://www.adafruit.com/product/631>
+l2  83 IN STOCK
+l1   Electroluminescent (EL) Panel Starter Pack - 10cm x 10cm Blue 
+<https://www.adafruit.com/product/629>
+l2  40 IN STOCK
+l1   Wire Light LED Strand - 12 Blue LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/895>
+l2  32 IN STOCK
+l1   Costume Goggles <https://www.adafruit.com/product/1577>
+l2  13 IN STOCK
+l1   FLORA GPS Starter Pack <https://www.adafruit.com/product/1090>
+l2  63 IN STOCK
+l1   Sewable Electroluminscent (EL) Wire Welted Piping- Aqua 5 meters 
+<https://www.adafruit.com/product/675>
+l2  5 IN STOCK
+l1   Stainless Steel Conductive Ribbon - 5mm wide 1 meter long 
+<https://www.adafruit.com/product/1244>
+l2  41 IN STOCK
+l1   Wire Light LED Strand - 12 Green LEDs + Coin Cell Holder 
+<https://www.adafruit.com/product/896>
+l2  43 IN STOCK
+l1   Punk LED Collar Kit - Red LEDs <https://www.adafruit.com/product/1454>
+l2  9 IN STOCK
+l1   1,000 Incredible Costume & Cosplay Ideas 
+<https://www.adafruit.com/product/2208>
+l2  3 IN STOCK
+l1   Litex Spare Battery Case <https://www.adafruit.com/product/1355>
+l2  19 IN STOCK
+l1   Cosplay World by Brian Ashcraft and Luke Plunkett 
+<https://www.adafruit.com/product/2224>
+l2  1 IN STOCK
+l1   Breadboard-friendly 2.1mm DC barrel jack <https://www.adafruit.com/product/373>
+l2  90 IN STOCK
+l1   16mm Illuminated Pushbutton - Green Momentary 
+<https://www.adafruit.com/product/1440>
+l2  16 IN STOCK
+l1   Speaker - 3" Diameter - 4 Ohm 3 Watt <https://www.adafruit.com/product/1314>
+l2  41 IN STOCK
+l1   DE-9 (DB-9) Female Socket Connector to Terminal Block Breakout 
+<https://www.adafruit.com/product/3122>
+l2  44 IN STOCK
+l1   Thin Plastic Speaker w/Wires - 8 ohm 0.25W 
+<https://www.adafruit.com/product/1891>
+l2  4 IN STOCK
+l1   On-Off Power Button / Pushbutton Toggle Switch 
+<https://www.adafruit.com/product/1683>
+l2  9 IN STOCK
+l1   Arcade Button - 30mm Translucent Clear <https://www.adafruit.com/product/471>
+l2  100 IN STOCK
+l1   Mini LED Arcade Button - 24mm Translucent Red 
+<https://www.adafruit.com/product/3430>
+l2  54 IN STOCK
+l1   3.5mm (1/8") 4-Pole (TRRS) Audio Plug Terminal Block 
+<https://www.adafruit.com/product/2914>
+l2  25 IN STOCK
+l1   Mini LED Arcade Button - 24mm Translucent Blue 
+<https://www.adafruit.com/product/3432>
+l2  96 IN STOCK
+l1   Arcade/Button Quick-Connect Wire Pair - Set of 10 pairs 
+<https://www.adafruit.com/product/1152>
+l2  97 IN STOCK
+l1   Switched JST-PH 2-Pin SMT Right Angle Breakout Board 
+<https://www.adafruit.com/product/1863>
+l2  61 IN STOCK
+l1   Mini LED Arcade Button - 24mm Translucent Yellow 
+<https://www.adafruit.com/product/3431>
+l2  24 IN STOCK
+l1   Heat Sink Thermal Tape - 3M 8810 - 25mm x 25mm 
+<https://www.adafruit.com/product/1467>
+l2  3 IN STOCK
+l1   Illuminated Toggle Switch with Cover - Red 
+<https://www.adafruit.com/product/3218>
+l2  91 IN STOCK
+l1   Peltier Thermo-Electric Cooler Module - 12V 5A 
+<https://www.adafruit.com/product/1330>
+l2  7 IN STOCK
+l1   Thermal paper roll - 50' long, 2.25" wide 
+<https://www.adafruit.com/product/599>
+l2  52 IN STOCK
+l1   Rugged Metal On/Off Switch with Red LED Ring - 16mm Red On/Off 
+<https://www.adafruit.com/product/916>
+l2  61 IN STOCK
+l1   Membrane 3x4 Matrix Keypad + extras - 3x4 
+<https://www.adafruit.com/product/419>
+l2  81 IN STOCK
+l1   Solid Machined Metal Knob - 1" Diameter <https://www.adafruit.com/product/2056>
+l2  32 IN STOCK
+l1   3.5mm (1/8") Stereo Audio Plug Terminal Block 
+<https://www.adafruit.com/product/2790>
+l2  77 IN STOCK
+l1   Mini Thermal Receipt Printer Starter Pack 
+<https://www.adafruit.com/product/600>
+l2  52 IN STOCK
+l1   Mini 8-Way Rotary Selector Switch - SP8T 
+<https://www.adafruit.com/product/2925>
+l2  69 IN STOCK
+l1   28-pin ZIF socket <https://www.adafruit.com/product/382>
+l2  19 IN STOCK
+l1   Illuminated Toggle Switch with Cover - Blue 
+<https://www.adafruit.com/product/3306>
+l2  55 IN STOCK
+l1   Foot switch <https://www.adafruit.com/product/423>
+l2  71 IN STOCK
+l1   50-pin 0.5mm pitch top-contact FPC SMT Connector 
+<https://www.adafruit.com/product/1773>
+l2  55 IN STOCK
+l1   Illuminated Toggle Switch with Cover - Green 
+<https://www.adafruit.com/product/3307>
+l2  92 IN STOCK
+l1   IC Socket - for 28-pin 0.3" Chips - Pack of 3 
+<https://www.adafruit.com/product/2205>
+l2  30 IN STOCK
+l1   PS/2 Wired Connector - Panel Mount MiniDIN-6 
+<https://www.adafruit.com/product/804>
+l2  44 IN STOCK
+l1   0.1" 36-pin Strip Right-Angle Female/Socket Header (5 pack) 
+<https://www.adafruit.com/product/1542>
+l2  69 IN STOCK
+l1   Medium Surface Transducer with Wires - 4 Ohm 3 Watt 
+<https://www.adafruit.com/product/1785>
+l2  74 IN STOCK
+l1   Through-Hole Resistors - 4.7K ohm 5% 1/4W - Pack of 25 
+<https://www.adafruit.com/product/2783>
+l2  65 IN STOCK
+l1   20W 4 Ohm Full Range Speaker - XS-GTF1027 
+<https://www.adafruit.com/product/1732>
+l2  74 IN STOCK
+l1   5.0V 250mA Linear Voltage Regulator - L4931-5.0 TO-92 
+<https://www.adafruit.com/product/2236>
+l2  38 IN STOCK
+l1   VS1053B MP3/WAV/OGG/MIDI Player & Recorder (CODEC) Chip 
+<https://www.adafruit.com/product/1681>
+l2  81 IN STOCK
+l1   Through-Hole Resistors - 22K ohm 5% 1/4W - Pack of 25 
+<https://www.adafruit.com/product/2785>
+l2  8 IN STOCK
+l1   Large Arcade Button with LED - 60mm Green 
+<https://www.adafruit.com/product/1193>
+l2  94 IN STOCK
+l1   TTL Laser Diode - 5mW 650nm Red - 50KHz Max 
+<https://www.adafruit.com/product/1056>
+l2  36 IN STOCK
+l1   Break-away 0.1" 2x36-pin strip right-angle male header (5 pack) 
+<https://www.adafruit.com/product/1541>
+l2  4 IN STOCK
+l1   PSP 3000 2-Axis Analog Thumb Joystick <https://www.adafruit.com/product/3103>
+l2  52 IN STOCK
+l1   Arcade Button - 30mm Translucent Pink <https://www.adafruit.com/product/472>
+l2  15 IN STOCK
+l1   Aluminum SMT Heat Sink - 0.27"x0.27" square 
+<https://www.adafruit.com/product/1043>
+l2  98 IN STOCK
+l1   50-pin FPC Extension Board + 200mm Cable 
+<https://www.adafruit.com/product/2571>
+l2  11 IN STOCK
+l1   Configurable Spring Terminal Blocks - 3 Pin 0.1" Pitch x 5 
+<https://www.adafruit.com/product/1081>
+l2  64 IN STOCK
+l1   3x8 Male Header - 4 pack <https://www.adafruit.com/product/806>
+l2  58 IN STOCK
+l1   SMT/SMD 0805 Resistor and Capacitor Book - 3725 pieces 
+<https://www.adafruit.com/product/441>
+l2  45 IN STOCK
+l1   SMT 0603 Resistor and Capacitor Book - 3725 pieces 
+<https://www.adafruit.com/product/442>
+l2  15 IN STOCK
+l1   Massive Arcade Button with LED - 100mm Blue 
+<https://www.adafruit.com/product/1189>
+l2  51 IN STOCK
+l1   Micro Switch - Premium Zippy 3-Terminal <https://www.adafruit.com/product/817>
+l2  72 IN STOCK
+l1   Mechanical Decade Counters - Small Size - Pack of 5 
+<https://www.adafruit.com/product/1084>
+l2  70 IN STOCK
+l1   Break-away 0.1" 2x36-pin strip dual male header (10 pieces) 
+<https://www.adafruit.com/product/1539>
+l2  72 IN STOCK
+l1   32.768 KHz Crystal - 12.5pF capacitor load 
+<https://www.adafruit.com/product/2211>
+l2  10 IN STOCK
+l1   Thermal Receipt Printer Guts <https://www.adafruit.com/product/2753>
+l2  33 IN STOCK
+l1   8 MHz Crystal + 20pF capacitors <https://www.adafruit.com/product/2213>
+l2  100 IN STOCK
+l1   4 MHz Crystal + 20pF capacitors <https://www.adafruit.com/product/2212>
+l2  20 IN STOCK
+l1   70-pin Hirose Receptacle Header for Intel Edison - 3mm Height - Hirose 
+DF40HC(3.0)-70DS <https://www.adafruit.com/product/2227>
+l2  68 IN STOCK
+l1   Mechanical Decade Counters - Large Size - Pack of 5 
+<https://www.adafruit.com/product/1082>
+l2  26 IN STOCK
+l1   1/4" (6.35mm) DIY Stereo In-Line Jack <https://www.adafruit.com/product/1804>
+l2  24 IN STOCK
+l1   IC Socket for 40-pin 0.6" Chips - Pack of 3 
+<https://www.adafruit.com/product/2207>
+l2  19 IN STOCK
+l1   2.5mm DIY Stereo Plug Connector <https://www.adafruit.com/product/1798>
+l2  28 IN STOCK
+l1   1/4" (6.35mm) DIY Mono Plug <https://www.adafruit.com/product/1802>
+l2  60 IN STOCK
+l1   12 MHz Crystal + 20pF capacitors <https://www.adafruit.com/product/2214>
+l2  12 IN STOCK
+l1   1/4" (6.35mm) DIY Stereo Plug <https://www.adafruit.com/product/1803>
+l2  68 IN STOCK
+l1   DSP-G1 Voice Chip <https://www.adafruit.com/product/2400>
+l2  10 IN STOCK
+l1   Aluminum MacBook Air 4 1.2mm 5-Point Star/Pentalobe Screwdriver 
+<https://www.adafruit.com/product/889>
+l2  7 IN STOCK
+l1   Aluminum iPhone 4S 0.8mm 5-Point Star/Pentalobe Screwdriver 
+<https://www.adafruit.com/product/888>
+l2  11 IN STOCK
+l1   Mirror iPhone Replacement Back - iPhone 4 
+<https://www.adafruit.com/product/925>
+l2  2 IN STOCK
+l1   Black No-Logo iPhone Replacement Back - iPhone 4S 
+<https://www.adafruit.com/product/928>
+l2  5 IN STOCK
+l1   iPhone 4/4S Bottom Screw Replacement - Pentalobe 2 per pack 
+<https://www.adafruit.com/product/892>
+l2  5 IN STOCK
+l1   Premium Female/Male 'Extension' Jumper Wires - 40 x 6" (150mm) 
+<https://www.adafruit.com/product/826>
+l2  92 IN STOCK
+l1   MicroUSB Plug to 5.5/2.1mm DC Barrel Jack Adapter 
+<https://www.adafruit.com/product/2727>
+l2  7 IN STOCK
+l1   USB Extension Cable with Data/Charge Sync Switch 
+<https://www.adafruit.com/product/3438>
+l2  79 IN STOCK
+l1   Premium Female/Male 'Extension' Jumper Wires - 20 x 3" 
+<https://www.adafruit.com/product/1953>
+l2  50 IN STOCK
+l1   USB cable - 6" A/MicroB <https://www.adafruit.com/product/898>
+l2  3 IN STOCK
+l1   Premium Female/Male 'Extension' Jumper Wires - 40 x 12" (300mm) 
+<https://www.adafruit.com/product/824>
+l2  8 IN STOCK
+l1   MicroUSB to 5.5/2.1mm DC Barrel Jack Adapter 
+<https://www.adafruit.com/product/2789>
+l2  94 IN STOCK
+l1   Bus pirate basic probe set <https://www.adafruit.com/product/238>
+l2  7 IN STOCK
+l1   Slip Ring with Flange - 22mm diameter, 12 wires, max 240V @ 2A 
+<https://www.adafruit.com/product/1196>
+l2  24 IN STOCK
+l1   USB/Serial Converter - FT232RL <https://www.adafruit.com/product/18>
+l2  45 IN STOCK
+l1   HDMI to RCA Audio and NTSC or PAL Video Adapter 
+<https://www.adafruit.com/product/3365>
+l2  90 IN STOCK
+l1   Miniature Slip Ring - 12mm diameter, 6 wires, max 240V @ 2A 
+<https://www.adafruit.com/product/775>
+l2  30 IN STOCK
+l1   Pig-Tail Cables - 0.1" 2-pin - 4 Pack <https://www.adafruit.com/product/1003>
+l2  41 IN STOCK
+l1   USB to 2.1mm DC Booster Cable - 9V <https://www.adafruit.com/product/2777>
+l2  48 IN STOCK
+l1   USB Extension Cable - 3 meters / 10 ft long 
+<https://www.adafruit.com/product/993>
+l2  67 IN STOCK
+l1   Stereo 3.5mm Plug/Plug Audio Cable - 6 feet 
+<https://www.adafruit.com/product/876>
+l2  60 IN STOCK
+l1   Ethernet Cable - 3 ft long <https://www.adafruit.com/product/995>
+l2  25 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 36" - Red 
+<https://www.adafruit.com/product/2609>
+l2  55 IN STOCK
+l1   Micro-HDMI to HDMI Socket Adapter Cable <https://www.adafruit.com/product/1358>
+l2  82 IN STOCK
+l1   50-pin FPC Extension Board + 200mm Cable 
+<https://www.adafruit.com/product/2571>
+l2  11 IN STOCK
+l1   Flexible USB Swivel Adapter <https://www.adafruit.com/product/974>
+l2  42 IN STOCK
+l1   50-pin 0.5mm Pitch FPC Flex Cable - 250mm / 10" long 
+<https://www.adafruit.com/product/1682>
+l2  3 IN STOCK
+l1   Miniature Slip Ring - 12mm diameter, 12 wires, max 240V @ 2A 
+<https://www.adafruit.com/product/1195>
+l2  62 IN STOCK
+l1   Micro HDMI to HDMI Cable - 2 meter <https://www.adafruit.com/product/1322>
+l2  6 IN STOCK
+l1   Silicone Cicoil Wire Cable - 4-pin 24AWG 
+<https://www.adafruit.com/product/1437>
+l2  56 IN STOCK
+l1   Pomona Test Lead Holder - For cables up to .21" / 3 AWG diameter - Orange - 
+POM-1508 <https://www.adafruit.com/product/2624>
+l2  27 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 24" - Red 
+<https://www.adafruit.com/product/2607>
+l2  6 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 24" - Black 
+<https://www.adafruit.com/product/2606>
+l2  5 IN STOCK
+l1   Pomona Test Lead Holder - For cables up to .32" / 0 AWG diameter - Black - 
+POM-4408 <https://www.adafruit.com/product/2625>
+l2  45 IN STOCK
+l1   AV (NTSC or PAL) to HDMI (720p or 1080p) Video and Audio Adapter 
+<https://www.adafruit.com/product/3378>
+l2  34 IN STOCK
+l1   PS/2 Keyboard+Mouse to USB adapter <https://www.adafruit.com/product/971>
+l2  64 IN STOCK
+l1   3.5mm Stereo to RCA (Composite Audio) Cable 6 feet 
+<https://www.adafruit.com/product/1013>
+l2  45 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 12" - Red 
+<https://www.adafruit.com/product/2605>
+l2  24 IN STOCK
+l1   Slim HDMI Cable - 914mm / 3 feet long <https://www.adafruit.com/product/2421>
+l2  61 IN STOCK
+l1   Pomona Minigrabber Test Clip to Stacking Banana Plug - 12" - Black 
+<https://www.adafruit.com/product/2611>
+l2  21 IN STOCK
+l1   RCA (Composite Video, Audio) Cable 6 feet 
+<https://www.adafruit.com/product/863>
+l2  40 IN STOCK
+l1   Pomona Test Lead Holder - For cables up to .45" 4/0 AWG diameter - Blue - 
+POM-2708 <https://www.adafruit.com/product/2623>
+l2  11 IN STOCK
+l1   USB Power & Data Signal Extender - 30+ meters / 100+ feet 
+<https://www.adafruit.com/product/2676>
+l2  6 IN STOCK
+l1   USB Complete: The Developer's Guide by Jan Axelson - Fifth Edition 
+<https://www.adafruit.com/product/3087>
+l2  1 IN STOCK
+l1   S-Video Cable - 6 feet <https://www.adafruit.com/product/1380>
+l2  42 IN STOCK
+l1   Mini DisplayPort to DisplayPort Cable - 10 ft/3 meters - White 
+<https://www.adafruit.com/product/1698>
+l2  18 IN STOCK
+l1   ADS1015 12-Bit ADC - 4 Channel with Programmable Gain Amplifier 
+<https://www.adafruit.com/product/1083>
+l2  75 IN STOCK
+l1   Stereo 3.7W Class D Audio Amplifier - MAX98306 
+<https://www.adafruit.com/product/987>
+l2  24 IN STOCK
+l1   Stereo 20W Class D Audio Amplifier - MAX9744 
+<https://www.adafruit.com/product/1752>
+l2  89 IN STOCK
+l1   VS1053 Codec + MicroSD Breakout - MP3/WAV/MIDI/OGG Play + Record - v4 
+<https://www.adafruit.com/product/1381>
+l2  10 IN STOCK
+l1   Emic 2 Text-to-Speech module <https://www.adafruit.com/product/924>
+l2  22 IN STOCK
+l1   Adafruit FT232H Breakout - General Purpose USB to GPIO+SPI+I2C 
+<https://www.adafruit.com/product/2264>
+l2  14 IN STOCK
+l1   INA169 Analog DC Current Sensor Breakout - 60V 5A Max 
+<https://www.adafruit.com/product/1164>
+l2  27 IN STOCK
+l1   Adafruit Push-button Power Switch Breakout 
+<https://www.adafruit.com/product/1400>
+l2  77 IN STOCK
+l1   Adafruit Audio FX Sound Board - WAV/OGG Trigger with 2MB Flash 
+<https://www.adafruit.com/product/2133>
+l2  85 IN STOCK
+l1   TFP401 HDMI/DVI Decoder to 40-Pin TTL Breakout - With Touch 
+<https://www.adafruit.com/product/2219>
+l2  32 IN STOCK
+l1   Adafruit Audio FX Sound Board - WAV/OGG Trigger with 16MB Flash 
+<https://www.adafruit.com/product/2220>
+l2  64 IN STOCK
+l1   SMT Breakout PCB Set For SOT-23, SOT-89, SOT-223 and TO252 
+<https://www.adafruit.com/product/1230>
+l2  62 IN STOCK
+l1   Stereo 2.8W Class D Audio Amplifier - I2C Control AGC - TPA2016 
+<https://www.adafruit.com/product/1712>
+l2  99 IN STOCK
+l1   SMT Breakout PCB for SOIC-20 or TSSOP-20 - 3 Pack! 
+<https://www.adafruit.com/product/1206>
+l2  73 IN STOCK
+l1   Resistive Touch Screen to USB Mouse Controller - AR1100 
+<https://www.adafruit.com/product/1580>
+l2  29 IN STOCK
+l1   TXB0104 Bi-Directional Level Shifter - TXB0104 
+<https://www.adafruit.com/product/1875>
+l2  85 IN STOCK
+l1   Adafruit Audio FX Mini Sound Board - WAV/OGG Trigger 16MB Flash 
+<https://www.adafruit.com/product/2341>
+l2  39 IN STOCK
+l1   Adafruit USB Isolator - 100mA Isolated Low/Full Speed USB 
+<https://www.adafruit.com/product/2107>
+l2  68 IN STOCK
+l1   DS2413 1-Wire Two GPIO Controller Breakout 
+<https://www.adafruit.com/product/1551>
+l2  39 IN STOCK
+l1   Touch screen breakout board (0.5mm FPC) <https://www.adafruit.com/product/334>
+l2  52 IN STOCK
+l1   Adafruit SPI Non-Volatile FRAM Breakout - 64Kbit / 8KByte 
+<https://www.adafruit.com/product/1897>
+l2  49 IN STOCK
+l1   Precision LM4040 Voltage Reference Breakout - 2.048V and 4.096V 
+<https://www.adafruit.com/product/2200>
+l2  77 IN STOCK
+l1   12mm Coin Cell Breakout w/ On-Off Switch 
+<https://www.adafruit.com/product/1867>
+l2  83 IN STOCK
+l1   12mm Coin Cell Breakout Board <https://www.adafruit.com/product/1868>
+l2  85 IN STOCK
+l1   Electret Microphone Amplifier - MAX9814 with Auto Gain Control 
+<https://www.adafruit.com/product/1713>
+l2  98 IN STOCK
+l1   Adafruit FONA 3G Cellular Breakout - European version 
+<https://www.adafruit.com/product/2691>
+l2  29 IN STOCK
+l1   Adafruit I2S MEMS Microphone Breakout - SPH0645LM4H 
+<https://www.adafruit.com/product/3421>
+l2  79 IN STOCK
+l1   DE-9 (DB-9) Female Socket Connector to Terminal Block Breakout 
+<https://www.adafruit.com/product/3122>
+l2  44 IN STOCK
+l1   Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A 
+<https://www.adafruit.com/product/3006>
+l2  26 IN STOCK
+l1   Adafruit PCF8523 Real Time Clock Assembled Breakout Board 
+<https://www.adafruit.com/product/3295>
+l2  61 IN STOCK
+l1   Standalone Momentary Capacitive Touch Sensor Breakout - AT42QT1010 
+<https://www.adafruit.com/product/1374>
+l2  86 IN STOCK
+l1   Adafruit FONA 808 - Mini Cellular GSM + GPS Breakout 
+<https://www.adafruit.com/product/2542>
+l2  34 IN STOCK
+l1   Adafruit RFM69HCW Transceiver Radio Breakout - 433 MHz 
+<https://www.adafruit.com/product/3071>
+l2  53 IN STOCK
+l1   Adafruit CP2104 Friend - USB to Serial Converter 
+<https://www.adafruit.com/product/3309>
+l2  39 IN STOCK
+l1   DC Motor + Stepper FeatherWing Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2927>
+l2  3 IN STOCK
+l1   CAP1188 - 8-Key Capacitive Touch Sensor Breakout - I2C or SPI 
+<https://www.adafruit.com/product/1602>
+l2  26 IN STOCK
+l1   8-Channel PWM or Servo FeatherWing Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2928>
+l2  39 IN STOCK
+l1   Adafruit ATWINC1500 WiFi Breakout <https://www.adafruit.com/product/2999>
+l2  62 IN STOCK
+l1   Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121 
+<https://www.adafruit.com/product/2340>
+l2  44 IN STOCK
+l1   FLORA 9-DOF Accelerometer/Gyroscope/Magnetometer - LSM9DS0 - v1.0 
+<https://www.adafruit.com/product/2020>
+l2  38 IN STOCK
+l1   Adafruit FONA - Mini Cellular GSM Breakout uFL Version 
+<https://www.adafruit.com/product/1946>
+l2  48 IN STOCK
+l1   Adafruit FONA - Mini Cellular GSM Breakout - SMA Version - v1 
+<https://www.adafruit.com/product/1963>
+l2  21 IN STOCK
+l1   Adafruit 12 x Capacitive Touch Shield for Arduino - MPR121 
+<https://www.adafruit.com/product/2024>
+l2  89 IN STOCK
+l1   2.4GHz Dipole Swivel Antenna with RP-SMA - 2dBi 
+<https://www.adafruit.com/product/944>
+l2  46 IN STOCK
+l1   Adafruit FONA 3G Cellular Breakout - American version - FREE Ting Sim Card w/ 
+Purchase! <https://www.adafruit.com/product/3147>
+l2  9 IN STOCK
+l1   Adafruit 16x9 Charlieplexed PWM LED Matrix Driver - IS31FL3731 
+<https://www.adafruit.com/product/2946>
+l2  55 IN STOCK
+l1   Adafruit FONA 3G Cellular Breakout - American version - Without Free Ting Sim 
+Card <https://www.adafruit.com/product/2687>
+l2  9 IN STOCK
+l1   Espressif ESP32 WROVER KIT <https://www.adafruit.com/product/3384>
+l2  82 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Cool White 
+<https://www.adafruit.com/product/2974>
+l2  42 IN STOCK
+l1   Adafruit ATWINC1500 WiFi Breakout with uFL Connector - fw 19.4.4 
+<https://www.adafruit.com/product/3060>
+l2  74 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Red 
+<https://www.adafruit.com/product/2947>
+l2  49 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix FeatherWing - Warm White 
+<https://www.adafruit.com/product/3163>
+l2  21 IN STOCK
+l1   Expansion Board for WiPy IOT Development Platform 
+<https://www.adafruit.com/product/2960>
+l2  82 IN STOCK
+l1   Particle Sensor Kit 3G - Americas/Aus <https://www.adafruit.com/product/3457>
+l2  18 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Blue 
+<https://www.adafruit.com/product/2973>
+l2  17 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Green 
+<https://www.adafruit.com/product/2972>
+l2  71 IN STOCK
+l1   Electron Cellular IoT Kit - 3G Americas/Aus 
+<https://www.adafruit.com/product/3234>
+l2  54 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Yellow 
+<https://www.adafruit.com/product/2948>
+l2  50 IN STOCK
+l1   LED Charlieplexed Matrix - 9x16 LEDs - Warm White 
+<https://www.adafruit.com/product/3162>
+l2  63 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing Yellow 
+<https://www.adafruit.com/product/3135>
+l2  57 IN STOCK
+l1   Particle Sensor Kit 3G – Eur/Afr/Asia <https://www.adafruit.com/product/3454>
+l2  3 IN STOCK
+l1   Particle Asset Tracker – 2G <https://www.adafruit.com/product/3450>
+l2  3 IN STOCK
+l1   Electron Cellular IoT Kit - 2G Global <https://www.adafruit.com/product/3233>
+l2  83 IN STOCK
+l1   Particle Asset Tracker – 3G Eur/Afr/Asia 
+<https://www.adafruit.com/product/3452>
+l2  5 IN STOCK
+l1   Electron Cellular IoT Kit - 3G Eur/Afr/Asia 
+<https://www.adafruit.com/product/3453>
+l2  45 IN STOCK
+l1   The Hardware Hacker: Adventures in Making and Breaking Hardware - by Bunnie 
+Huang <https://www.adafruit.com/product/3465>
+l2  23 IN STOCK
+l1   Coloring book - "Ladyada's E is for electronics" 
+<https://www.adafruit.com/product/1000>
+l2  89 IN STOCK
+l1   Programming Arduino By Simon Monk - Second Edition 
+<https://www.adafruit.com/product/1019>
+l2  91 IN STOCK
+l1   Python for Microcontrollers: Getting Started with MicroPython 
+<https://www.adafruit.com/product/3325>
+l2  73 IN STOCK
+l1   Getting Started with Arduino By Massimo Banzi - 3rd Edition 
+<https://www.adafruit.com/product/263>
+l2  80 IN STOCK
+l1   Programming Arduino: Next Steps - Going Further with Sketches 
+<https://www.adafruit.com/product/1557>
+l2  47 IN STOCK
+l1   The Essential Guide to Electronics in Shenzhen by Bunnie Huang 
+<https://www.adafruit.com/product/3189>
+l2  63 IN STOCK
+l1   Pocket Ref - 4th Edition - by Thomas J. Glover 
+<https://www.adafruit.com/product/2374>
+l2  2 IN STOCK
+l1   Getting Started with Adafruit FLORA <https://www.adafruit.com/product/1839>
+l2  67 IN STOCK
+l1   Raspberry Pi Cookbook by Simon Monk - Second Edition 
+<https://www.adafruit.com/product/2274>
+l2  47 IN STOCK
+l1   Getting Started with Trinket Book + Adafruit Trinket 5V Kit Pack 
+<https://www.adafruit.com/product/2289>
+l2  83 IN STOCK
+l1   Learning the Art of Electronics - A Hands-On Lab Course 
+<https://www.adafruit.com/product/3066>
+l2  6 IN STOCK
+l1   Getting Started with Bluetooth Low Energy by KTOWN 
+<https://www.adafruit.com/product/1978>
+l2  9 IN STOCK
+l1   Adventures in Raspberry Pi - Second Edition 
+<https://www.adafruit.com/product/1745>
+l2  10 IN STOCK
+l1   Practical Electronics for Inventors, Fourth Edition 
+<https://www.adafruit.com/product/1261>
+l2  36 IN STOCK
+l1   Make: Bluetooth LE Projects for Arduino, RasPi, and Smartphones 
+<https://www.adafruit.com/product/3029>
+l2  2 IN STOCK
+l1   Raspberry Pi User Guide by Eben Upton and Gareth Halfacree - 4th Edition 
+<https://www.adafruit.com/product/1053>
+l2  31 IN STOCK
+l1   Python for Kids - A Playful Introduction to Programming 
+<https://www.adafruit.com/product/1161>
+l2  4 IN STOCK
+l1   Learning Python with Raspberry Pi by Alex Bradbury 
+<https://www.adafruit.com/product/1942>
+l2  5 IN STOCK
+l1   The Total Inventor's Manual by Sean Michael Ragan 
+<https://www.adafruit.com/product/3385>
+l2  25 IN STOCK
+l1   Hacking Electronics by Simon Monk <https://www.adafruit.com/product/1339>
+l2  6 IN STOCK
+l1   Sylvia's Super Awesome Project Book - Super Simple Arduino! 
+<https://www.adafruit.com/product/2316>
+l2  17 IN STOCK
+l1   30 Arduino Projects for the Evil Genius by Simon Monk - 2nd Ed. 
+<https://www.adafruit.com/product/868>
+l2  6 IN STOCK
+l1   The Art of Electronics 3rd Edition by Horowitz & Hill HARDCOVER - Third Edition
+ <https://www.adafruit.com/product/2356>
+l2  13 IN STOCK
+l1   Getting Started in Electronics by Forrest M. Mims III 
+<https://www.adafruit.com/product/517>
+l2  11 IN STOCK
+l1   Building Wireless Sensor Networks by Rob Faludi 
+<https://www.adafruit.com/product/963>
+l2  11 IN STOCK
+l1   Make: Electronics (Charles Platt) - 2nd Edition 
+<https://www.adafruit.com/product/203>
+l2  11 IN STOCK
+l1   Beginning NFC with Arduino, Android, and PhoneGap 
+<https://www.adafruit.com/product/1744>
+l2  7 IN STOCK
+l1   Adventures in Minecraft <https://www.adafruit.com/product/3348>
+l2  11 IN STOCK
+l1   Make: Wearable Electronics by Kate Hartman 
+<https://www.adafruit.com/product/2170>
+l2  6 IN STOCK
+l1   Manga Guide to Electricity by Kazuhiro Fujitaki 
+<https://www.adafruit.com/product/267>
+l2  1 IN STOCK
+l1   Programming the Beagle Bone Black by Simon Monk 
+<https://www.adafruit.com/product/1943>
+l2  10 IN STOCK
+l1   The MagPi - Issue 28 <https://www.adafruit.com/product/2644>
+l2  2 IN STOCK
+l1   Getting Started with Processing by Casey Reas & Ben Fry - Second Edition 
+<https://www.adafruit.com/product/265>
+l2  26 IN STOCK
+l1   Hackaday Omnibus - Vol. 02 - 2015 <https://www.adafruit.com/product/3001>
+l2  27 IN STOCK
+l1   Ladyada's Coloring book - "R is for Robots" 
+<https://www.adafruit.com/product/1936>
+l2  48 IN STOCK
+l1   Make: More Electronics by Charles Platt <https://www.adafruit.com/product/1939>
+l2  5 IN STOCK
+l1   The MagPi - Issue 12 <https://www.adafruit.com/product/1702>
+l2  4 IN STOCK
+l1   The MagPi - Issue 26 <https://www.adafruit.com/product/2642>
+l2  10 IN STOCK
+l1   1,000 Incredible Costume & Cosplay Ideas 
+<https://www.adafruit.com/product/2208>
+l2  3 IN STOCK
+l1   Rosie Revere, Engineer <https://www.adafruit.com/product/1677>
+l2  3 IN STOCK
+l1   Encyclopedia of Electronic Components Volume 1 by Charles Platt - 1st print 
+<https://www.adafruit.com/product/1118>
+l2  7 IN STOCK
+l1   Getting Started with Adafruit Trinket <https://www.adafruit.com/product/1838>
+l2  83 IN STOCK
+l1   The MagPi - Issue 27 <https://www.adafruit.com/product/2643>
+l2  23 IN STOCK
+l1   USB Complete: The Developer's Guide by Jan Axelson - Fifth Edition 
+<https://www.adafruit.com/product/3087>
+l2  1 IN STOCK
+l1   Super Scratch Programming Adventure! <https://www.adafruit.com/product/1585>
+l2  2 IN STOCK
+l1   The Big Book of Maker Skills by Chris Hackett 
+<https://www.adafruit.com/product/2311>
+l2  4 IN STOCK
+l1   Encyclopedia of Electronic Components Vol. 2 by Charles Platt 
+<https://www.adafruit.com/product/2322>
+l2  10 IN STOCK
+l1   The Makerspace Workbench by Adam Kemp <https://www.adafruit.com/product/1581>
+l2  10 IN STOCK
+l1   Encyclopedia of Electronic Components Volume 3 
+<https://www.adafruit.com/product/2985>
+l2  22 IN STOCK
+l1   The MagPi - Issue 13 <https://www.adafruit.com/product/1703>
+l2  6 IN STOCK
+l1   Makers: The New Industrial Revolution by Chris Anderson 
+<https://www.adafruit.com/product/1087>
+l2  2 IN STOCK
+l1   The Cynja Field Instruction Manual <https://www.adafruit.com/product/2879>
+l2  3 IN STOCK
+l1   Building OSH: DIY Manufacturing for Hackers and Makers 
+<https://www.adafruit.com/product/2318>
+l2  1 IN STOCK
+l1   The MagPi - Issue 10 <https://www.adafruit.com/product/1711>
+l2  1 IN STOCK
+l1   The MagPi - Issue 11 <https://www.adafruit.com/product/1701>
+l2  3 IN STOCK
+l1   The MagPi - Issue 18 <https://www.adafruit.com/product/1707>
+l2  30 IN STOCK
+l1   The MagPi - Issue 23 <https://www.adafruit.com/product/2639>
+l2  30 IN STOCK
+l1   The MagPi - Issue 24 <https://www.adafruit.com/product/2640>
+l2  27 IN STOCK
+l1   The MagPi - Issue 25 <https://www.adafruit.com/product/2641>
+l2  6 IN STOCK
+l1   Cosplay World by Brian Ashcraft and Luke Plunkett 
+<https://www.adafruit.com/product/2224>
+l2  1 IN STOCK
+l1   Making Things Move DIY Mechanisms for Inventors - Dustyn Roberts 
+<https://www.adafruit.com/product/323>
+l2  4 IN STOCK
+l1   LEO the Maker Prince - Journeys in 3D Printing by Carla Diana 
+<https://www.adafruit.com/product/1630>
+l2  1 IN STOCK
+l1   Make: The Annotated Build-It-Yourself Science Laboratory - by Windell Oskay 
+<https://www.adafruit.com/product/2560>
+l2  16 IN STOCK
+l1   The Cynja: Volume 1 <https://www.adafruit.com/product/2878>
+l2  11 IN STOCK
+l1   uniBBB - Unibody Aluminum Case for BeagleBone Black 
+<https://www.adafruit.com/product/1810>
+l2  10 IN STOCK
+l1   Adafruit Bone Box - Enclosure for Beagle Bone/Beagle Bone Black 
+<https://www.adafruit.com/product/699>
+l2  44 IN STOCK
+l1   Anidees Beaglebone Black Case - Black Aluminum with Smoke Top 
+<https://www.adafruit.com/product/2627>
+l2  24 IN STOCK
+l1   Anidees BeagleBoneBlack Case - Silver Aluminum with Crystal Top 
+<https://www.adafruit.com/product/2628>
+l2  23 IN STOCK
+l1   4.3" LCD Capacitive Touchscreen Display Cape for BeagleBone 
+<https://www.adafruit.com/product/3396>
+l2  90 IN STOCK
+l1   9V battery clip with 5.5mm/2.1mm plug <https://www.adafruit.com/product/80>
+l2  24 IN STOCK
+l1   Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charger - v1 
+<https://www.adafruit.com/product/1905>
+l2  33 IN STOCK
+l1   Switched JST-PH 2-Pin SMT Right Angle Breakout Board 
+<https://www.adafruit.com/product/1863>
+l2  61 IN STOCK
+l1   Waterproof 2xAA Battery Holder with On/Off Switch 
+<https://www.adafruit.com/product/770>
+l2  24 IN STOCK
+l1   12mm Coin Cell Breakout w/ On-Off Switch 
+<https://www.adafruit.com/product/1867>
+l2  83 IN STOCK
+l1   Adafruit PowerBoost 500 Shield - Rechargeable 5V Power Shield 
+<https://www.adafruit.com/product/2078>
+l2  64 IN STOCK
+l1   12mm Coin Cell Breakout Board <https://www.adafruit.com/product/1868>
+l2  85 IN STOCK
+l1   CR2450 Lithium Coin Cell Battery <https://www.adafruit.com/product/2850>
+l2  31 IN STOCK
+l1   Camcorder Battery Holder/Adapter for Sony NP-F750 w/ DC Jack 
+<https://www.adafruit.com/product/2089>
+l2  35 IN STOCK
+l1   Camcorder Battery Holder for Panasonic CGR-D28 and CGA-D54s 
+<https://www.adafruit.com/product/2272>
+l2  6 IN STOCK
+l1   Camcorder Battery Holder for Canon LP-E6 
+<https://www.adafruit.com/product/2271>
+l2  16 IN STOCK
+l1   Lithium Ion Coin Cell Charger <https://www.adafruit.com/product/1573>
+l2  39 IN STOCK
+l1   Intel® Edison R2 Kit w/ Arduino Breakout Board 
+<https://www.adafruit.com/product/2180>
+l2  77 IN STOCK
+l1   Webcam Cover-Ups - pack of 10 <https://www.adafruit.com/product/1696>
+l2  23 IN STOCK
+l1   LEDs - Skill badge, iron-on patch <https://www.adafruit.com/product/479>
+l2  66 IN STOCK
+l1   Robotics! - Sticker! <https://www.adafruit.com/product/622>
+l2  87 IN STOCK
+l1   Sparky the Magic Blue Smoke Monster - Sticker! 
+<https://www.adafruit.com/product/691>
+l2  90 IN STOCK
+l1   Android - Sticker! <https://www.adafruit.com/product/686>
+l2  96 IN STOCK
+l1   Hack-a-Day - Badge, iron-on patch <https://www.adafruit.com/product/503>
+l2  56 IN STOCK
+l1   Sparky the Magic Blue Smoke Monster - Skill badge, iron-on patch 
+<https://www.adafruit.com/product/565>
+l2  28 IN STOCK
+l1   Bitcoin - Sticker! <https://www.adafruit.com/product/1600>
+l2  49 IN STOCK
+l1   Learn to program "Hello world" - Skill badge, iron-on patch 
+<https://www.adafruit.com/product/478>
+l2  23 IN STOCK
+l1   Android - Skill badge, iron-on patch <https://www.adafruit.com/product/551>
+l2  26 IN STOCK
+l1   BSD Daemon - Skill badge, iron-on patch <https://www.adafruit.com/product/656>
+l2  14 IN STOCK
+l1   ESD (Electrostatic discharge) - Sticker! <https://www.adafruit.com/product/669>
+l2  26 IN STOCK
+l1   iNecklace - v1.0 <https://www.adafruit.com/product/440>
+l2  3 IN STOCK
+l1   Tesla coil - Sticker! <https://www.adafruit.com/product/664>
+l2  23 IN STOCK
+l1   iCufflinks - v1.1 <https://www.adafruit.com/product/379>
+l2  1 IN STOCK
+l1   Educational mini UAVs- Skill badge, iron-on patch 
+<https://www.adafruit.com/product/605>
+l2  59 IN STOCK
+l1   Swift - Skill badge, iron-on patch <https://www.adafruit.com/product/1964>
+l2  63 IN STOCK
+l1   Bike repair - Sticker! <https://www.adafruit.com/product/670>
+l2  20 IN STOCK
+l1   Water jet - Sticker! <https://www.adafruit.com/product/672>
+l2  94 IN STOCK
+l1   QR Code - Sticker! <https://www.adafruit.com/product/707>
+l2  85 IN STOCK
+l1   Circuit board necktie "Resistor" - Black with silver ink, narrow 
+<https://www.adafruit.com/product/486>
+l2  5 IN STOCK
+l1   LEDs - Sticker! <https://www.adafruit.com/product/644>
+l2  56 IN STOCK
+l1   TechShop - Badge, iron-on patch <https://www.adafruit.com/product/505>
+l2  34 IN STOCK
+l1   Ada Lovelace, large, oval, color - Sticker! 
+<https://www.adafruit.com/product/701>
+l2  64 IN STOCK
+l1   I "heart" METRIC - Skill badge, iron-on patch 
+<https://www.adafruit.com/product/612>
+l2  28 IN STOCK
+l1   QR Code - Skill badge, iron-on patch <https://www.adafruit.com/product/655>
+l2  34 IN STOCK
+l1   Welding - Sticker! <https://www.adafruit.com/product/704>
+l2  66 IN STOCK
+l1   Circuit bender! - Sticker! <https://www.adafruit.com/product/688>
+l2  69 IN STOCK
+l1   Ada Lovelace, large, oval black and white - Sticker! 
+<https://www.adafruit.com/product/696>
+l2  75 IN STOCK
+l1   Hacked Kinect - Skill badge, iron-on patch 
+<https://www.adafruit.com/product/582>
+l2  58 IN STOCK
+l1   Leatherman Tread - Black Steel <https://www.adafruit.com/product/3012>
+l2  7 IN STOCK
+l1   Leatherman Tread - Stainless Steel <https://www.adafruit.com/product/3011>
+l2  4 IN STOCK
+l1   Astroprint Vinyl Sticker! <https://www.adafruit.com/product/2389>
+l2  11 IN STOCK
+l1   Glitch Scarf by Glitchaus <https://www.adafruit.com/product/1517>
+l2  2 IN STOCK
+l1   Adafruit PN532 NFC/RFID Controller Shield for Arduino + Extras 
+<https://www.adafruit.com/product/789>
+l2  28 IN STOCK
+l1   9V battery clip with 5.5mm/2.1mm plug <https://www.adafruit.com/product/80>
+l2  24 IN STOCK
+l1   2.8" TFT Touch Shield for Arduino w/Capacitive Touch 
+<https://www.adafruit.com/product/1947>
+l2  36 IN STOCK
+l1   Adafruit METRO 328 with Headers - ATmega328 
+<https://www.adafruit.com/product/2488>
+l2  68 IN STOCK
+l1   Adafruit PowerBoost 500 Shield - Rechargeable 5V Power Shield 
+<https://www.adafruit.com/product/2078>
+l2  64 IN STOCK
+l1   Adafruit 12 x Capacitive Touch Shield for Arduino - MPR121 
+<https://www.adafruit.com/product/2024>
+l2  89 IN STOCK
+l1   Adafruit 1.8" Color TFT Shield w/microSD and Joystick 
+<https://www.adafruit.com/product/802>
+l2  11 IN STOCK
+l1   DC Boarduino (Arduino compatible) Kit (w/ATmega328) - v1.0 
+<https://www.adafruit.com/product/72>
+l2  54 IN STOCK
+l1   Clear Enclosure for Arduino - Electronics enclosure - 1.0 
+<https://www.adafruit.com/product/337>
+l2  39 IN STOCK
+l1   White Enclosure for Arduino - Electronics enclosure - 1.0 
+<https://www.adafruit.com/product/271>
+l2  71 IN STOCK
+l1   Music & sound add-on pack for Arduino - v1.1 
+<https://www.adafruit.com/product/175>
+l2  23 IN STOCK
+l1   Parallax BOEBot Robot for Arduino Kit <https://www.adafruit.com/product/749>
+l2  92 IN STOCK
+l1   Smoke Translucent Enclosure for Arduino - Electronics enclosure - 1.0 
+<https://www.adafruit.com/product/821>
+l2  37 IN STOCK
+l1   TinyG CNC Controller Board v8 <https://www.adafruit.com/product/1749>
+l2  64 IN STOCK
+l1   Adafruit AVR Sticker for Breadboard Arduino-compatibles - 10 pcs 
+<https://www.adafruit.com/product/554>
+l2  38 IN STOCK
+l1   Programming Arduino By Simon Monk - Second Edition 
+<https://www.adafruit.com/product/1019>
+l2  91 IN STOCK
+l1   Getting Started with Arduino By Massimo Banzi - 3rd Edition 
+<https://www.adafruit.com/product/263>
+l2  80 IN STOCK
+l1   Patch shield for Arduino - v5.01 <https://www.adafruit.com/product/256>
+l2  14 IN STOCK
+l1   Intel® Edison R2 Kit w/ Arduino Breakout Board 
+<https://www.adafruit.com/product/2180>
+l2  77 IN STOCK
+l1   Programming Arduino: Next Steps - Going Further with Sketches 
+<https://www.adafruit.com/product/1557>
+l2  47 IN STOCK
+l1   Arduino M0 Pro - 32 bit Cortex M0 with Debug Interface 
+<https://www.adafruit.com/product/2417>
+l2  6 IN STOCK
+l1   Intel® Galileo Development Board (Gen 2) - Arduino Certified - Gen 2 
+<https://www.adafruit.com/product/2188>
+l2  25 IN STOCK
+l1   DIY Gamer Kit from Technology Will Save Us 
+<https://www.adafruit.com/product/2123>
+l2  33 IN STOCK
+l1   Intel® Edison Compute Module <https://www.adafruit.com/product/2112>
+l2  68 IN STOCK
+l1   30 Arduino Projects for the Evil Genius by Simon Monk - 2nd Ed. 
+<https://www.adafruit.com/product/868>
+l2  6 IN STOCK
+l1   Beginning NFC with Arduino, Android, and PhoneGap 
+<https://www.adafruit.com/product/1744>
+l2  7 IN STOCK
+l1   Adafruit MENTA - Mint Tin Arduino Compatible Kit with Mint Tin 
+<https://www.adafruit.com/product/795>
+l2  18 IN STOCK
+l1   Arduino Starter Kit from Arduino.cc <https://www.adafruit.com/product/1078>
+l2  65 IN STOCK
+l1   Adafruit Non-Latching Mini Relay FeatherWing 
+<https://www.adafruit.com/product/2895>
+l2  46 IN STOCK
+l1   DC Motor + Stepper FeatherWing Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2927>
+l2  3 IN STOCK
+l1   Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz 
+<https://www.adafruit.com/product/3077>
+l2  15 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Red 
+<https://www.adafruit.com/product/3108>
+l2  60 IN STOCK
+l1   Adafruit Latching Mini Relay FeatherWing 
+<https://www.adafruit.com/product/2923>
+l2  19 IN STOCK
+l1   NeoPixel FeatherWing - 4x8 RGB LED Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2945>
+l2  55 IN STOCK
+l1   Adafruit Feather M0 Bluefruit LE <https://www.adafruit.com/product/2995>
+l2  21 IN STOCK
+l1   DS3231 Precision RTC FeatherWing - RTC Add-on For Feather Boards 
+<https://www.adafruit.com/product/3028>
+l2  97 IN STOCK
+l1   Adafruit Feather 32u4 RFM69HCW Packet Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3076>
+l2  30 IN STOCK
+l1   Adafruit 4-Digit 7-Segment LED Matrix Display FeatherWing 
+<https://www.adafruit.com/product/3088>
+l2  60 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Green 
+<https://www.adafruit.com/product/3107>
+l2  60 IN STOCK
+l1   Arduino MKR1000 <https://www.adafruit.com/product/3156>
+l2  8 IN STOCK
+l1   Relay Shield for Photon <https://www.adafruit.com/product/3051>
+l2  55 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Blue 
+<https://www.adafruit.com/product/3106>
+l2  60 IN STOCK
+l1   Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Yellow 
+<https://www.adafruit.com/product/3110>
+l2  60 IN STOCK
+l1   Adafruit Feather M0 Basic Proto - ATSAMD21 Cortex M0 
+<https://www.adafruit.com/product/2772>
+l2  31 IN STOCK
+l1   8-Channel PWM or Servo FeatherWing Add-on For All Feather Boards 
+<https://www.adafruit.com/product/2928>
+l2  39 IN STOCK
+l1   Ethernet Shield for Arduino - W5500 Chipset 
+<https://www.adafruit.com/product/2971>
+l2  75 IN STOCK
+l1   Adafruit Feather 32u4 RFM95 LoRa Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3078>
+l2  59 IN STOCK
+l1   Adafruit Power Relay FeatherWing <https://www.adafruit.com/product/3191>
+l2  84 IN STOCK
+l1   Adafruit CP2104 Friend - USB to Serial Converter 
+<https://www.adafruit.com/product/3309>
+l2  39 IN STOCK
+l1   Adafruit Feather M0 RFM69HCW Packet Radio - 868 or 915 MHz 
+<https://www.adafruit.com/product/3176>
+l2  51 IN STOCK
+l1   Half Size Breadboard + 78 Piece 22AWG Jumper Wire Bundle 
+<https://www.adafruit.com/product/3314>
+l2  39 IN STOCK
+l1   Teensy 3.x Feather Adapter <https://www.adafruit.com/product/3200>
+l2  99 IN STOCK
+l1   Digital Loggers PLDuino - ATmega2560 + ESP8266 Customizable PLC 
+<https://www.adafruit.com/product/3418>
+l2  80 IN STOCK
+l1   Adafruit Radio FeatherWing - RFM69HCW 900MHz 
+<https://www.adafruit.com/product/3229>
+l2  7 IN STOCK
+l1   Adafruit Feather M0 RFM69HCW Packet Radio - 433MHz 
+<https://www.adafruit.com/product/3177>
+l2  63 IN STOCK
+l1   Particle Power Shield with Headers <https://www.adafruit.com/product/3455>
+l2  31 IN STOCK
+l1   Adafruit Radio FeatherWing - RFM69HCW 433MHz 
+<https://www.adafruit.com/product/3230>
+l2  91 IN STOCK
+l1   Python for Microcontrollers: Getting Started with MicroPython 
+<https://www.adafruit.com/product/3325>
+l2  73 IN STOCK
+l1   1Sheeld+ for iOS and Android <https://www.adafruit.com/product/3408>
+l2  74 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix FeatherWing - Warm White 
+<https://www.adafruit.com/product/3163>
+l2  21 IN STOCK
+l1   Zebra Byte Case for Adafruit Metro Mini <https://www.adafruit.com/product/2709>
+l2  56 IN STOCK
+l1   Adafruit Metro Starter Pack <https://www.adafruit.com/product/3345>
+l2  68 IN STOCK
+l1   Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing Yellow 
+<https://www.adafruit.com/product/3135>
+l2  57 IN STOCK
+l1   USB WiFi (802.11b/g/n) Module with Antenna for Raspberry Pi 
+<https://www.adafruit.com/product/1030>
+l2  1 IN STOCK
+l1   GPIO Header for Raspberry Pi A+/B+/Pi 2/Pi 3 - 2x20 Female Header 
+<https://www.adafruit.com/product/2222>
+l2  31 IN STOCK
+l1   Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121 
+<https://www.adafruit.com/product/2340>
+l2  44 IN STOCK
+l1   Miniature Wireless USB Keyboard with Touchpad 
+<https://www.adafruit.com/product/922>
+l2  73 IN STOCK
+l1   Pocket PiGRRL Pack Build your own Pi Game Emulator! - CASE + PI NOT INCLUDED 
+<https://www.adafruit.com/product/2510>
+l2  74 IN STOCK
+l1   Wireless Keyboard and Mouse Combo w/ Batteries - One USB Port! 
+<https://www.adafruit.com/product/1738>
+l2  1 IN STOCK
+l1   Pimoroni Picade Console Controller Kit - PIM106 
+<https://www.adafruit.com/product/2707>
+l2  8 IN STOCK
+l1   Adafruit Half-size Perma-Proto Raspberry Pi Breadboard PCB Kit 
+<https://www.adafruit.com/product/1148>
+l2  72 IN STOCK
+l1   Stereo 3.5mm Plug/Plug Audio Cable - 6 feet 
+<https://www.adafruit.com/product/876>
+l2  60 IN STOCK
+l1   USB 2.0 Powered Hub - 7 Ports with 5V 2A Power Supply 
+<https://www.adafruit.com/product/961>
+l2  87 IN STOCK
+l1   USB Mini Hub with Power Switch - OTG Micro-USB 
+<https://www.adafruit.com/product/2991>
+l2  5 IN STOCK
+l1   Pimoroni Picade HAT for Raspberry Pi <https://www.adafruit.com/product/3402>
+l2  18 IN STOCK
+l1   USB Extension Cable with Data/Charge Sync Switch 
+<https://www.adafruit.com/product/3438>
+l2  79 IN STOCK
+l1   Pimoroni Speaker pHAT for Raspberry Pi Zero 
+<https://www.adafruit.com/product/3401>
+l2  71 IN STOCK
+l1   Adafruit Pi Protector for Raspberry Pi Model Zero 
+<https://www.adafruit.com/product/2883>
+l2  35 IN STOCK
+l1   Pimoroni Zero LiPo <https://www.adafruit.com/product/3196>
+l2  54 IN STOCK
+l1   HDMI 5" Display Backpack - Without Touch 
+<https://www.adafruit.com/product/2232>
+l2  20 IN STOCK
+l1   Pimoroni Display-O-Tron HAT <https://www.adafruit.com/product/2694>
+l2  74 IN STOCK
+l1   Pimoroni pHAT DAC for Raspberry Pi Zero <https://www.adafruit.com/product/3016>
+l2  89 IN STOCK
+l1   Pimoroni Enviro pHAT for Raspberry Pi Zero 
+<https://www.adafruit.com/product/3194>
+l2  15 IN STOCK
+l1   Pimoroni Pan-Tilt HAT for Raspberry Pi - without pan-tilt module 
+<https://www.adafruit.com/product/3353>
+l2  6 IN STOCK
+l1   Adafruit DPI TFT Kippah for Raspberry Pi 
+<https://www.adafruit.com/product/2454>
+l2  26 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 3.5" Diagonal 
+<https://www.adafruit.com/product/913>
+l2  90 IN STOCK
+l1   HDMI to RCA Audio and NTSC or PAL Video Adapter 
+<https://www.adafruit.com/product/3365>
+l2  90 IN STOCK
+l1   Full Size Wireless Keyboard with Trackpad 
+<https://www.adafruit.com/product/2876>
+l2  84 IN STOCK
+l1   Adafruit PiTFT 2.4" HAT Mini Kit - 320x240 TFT Touchscreen 
+<https://www.adafruit.com/product/2455>
+l2  74 IN STOCK
+l1   Pi GRRL Zero - Does Not Include Pi Zero - CASE NOT INCLUDED 
+<https://www.adafruit.com/product/3160>
+l2  4 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 2.0" Diagonal 
+<https://www.adafruit.com/product/911>
+l2  16 IN STOCK
+l1   Kano Computer Kit with Raspberry Pi 3 <https://www.adafruit.com/product/3257>
+l2  44 IN STOCK
+l1   Kano Screen Kit <https://www.adafruit.com/product/3256>
+l2  41 IN STOCK
+l1   PaPiRus 2.7" eInk Display HAT for Raspberry Pi from Pi Supply 
+<https://www.adafruit.com/product/3420>
+l2  61 IN STOCK
+l1   Raspberry Pi Compute Module I/O Board V3 
+<https://www.adafruit.com/product/3442>
+l2  65 IN STOCK
+l1   7" Display 1280x800 (720p) IPS + Speakers - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1667>
+l2  100 IN STOCK
+l1   Pimoroni Automation HAT for Raspberry Pi 
+<https://www.adafruit.com/product/3289>
+l2  70 IN STOCK
+l1   Adafruit VESA Mount Plus for Raspberry Pi 2 / B+ / A+ 
+<https://www.adafruit.com/product/2534>
+l2  60 IN STOCK
+l1   Raspberry Pi Foundation Starter Kit with Pi 3 
+<https://www.adafruit.com/product/3277>
+l2  96 IN STOCK
+l1   Miniature Keyboard- Microcontroller-Friendly PS/2 and USB 
+<https://www.adafruit.com/product/857>
+l2  17 IN STOCK
+l1   HDMI 4 Pi: 5" Display (no Touch) w/Mini Driver - 800x480 HDMI 
+<https://www.adafruit.com/product/1928>
+l2  21 IN STOCK
+l1   Raspberry Pi Media Center Kit - for Pi 2 or Pi 3 - Includes Pi 3 
+<https://www.adafruit.com/product/3158>
+l2  96 IN STOCK
+l1   Adafruit Small-Size Perma-Proto Raspberry Pi Breadboard PCB Kit 
+<https://www.adafruit.com/product/1171>
+l2  4 IN STOCK
+l1   Pimoroni Touch pHAT for Raspberry Pi Zero 
+<https://www.adafruit.com/product/3472>
+l2  19 IN STOCK
+l1   4GB SD Card w/ Jessie Lite <https://www.adafruit.com/product/2820>
+l2  22 IN STOCK
+l1   RasPi Robot Board v3 by MonkMakes <https://www.adafruit.com/product/1940>
+l2  16 IN STOCK
+l1   OSMC RF Remote Control <https://www.adafruit.com/product/3092>
+l2  71 IN STOCK
+l1   Python for Microcontrollers: Getting Started with MicroPython 
+<https://www.adafruit.com/product/3325>
+l2  73 IN STOCK
+l1   Pimoroni Explorer HAT Pro for Raspberry Pi 
+<https://www.adafruit.com/product/2427>
+l2  37 IN STOCK
+l1   Pimoroni Mini Black HAT Hack3r - Fully Assembled 
+<https://www.adafruit.com/product/3182>
+l2  64 IN STOCK
+l1   Pimoroni Micro Dot pHAT with Included LED Modules - Red 
+<https://www.adafruit.com/product/3248>
+l2  72 IN STOCK
+l1   Anidees Black Case w/ Smokey Top for Raspberry Pi B+/Pi 2/Pi 3 
+<https://www.adafruit.com/product/2347>
+l2  35 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 2.5" Diagonal 
+<https://www.adafruit.com/product/912>
+l2  60 IN STOCK
+l1   Adafruit DPI TFT Kippah for Raspberry Pi with Touch Support 
+<https://www.adafruit.com/product/2453>
+l2  20 IN STOCK
+l1   HDMI 4 Pi: 7" Display no Touchscreen 1024x600 w/ Mini Driver 
+<https://www.adafruit.com/product/2300>
+l2  5 IN STOCK
+l1   Anidees Silver Case w/ Crystal Top for Raspberry Pi B+/Pi 2/Pi 3 
+<https://www.adafruit.com/product/2346>
+l2  47 IN STOCK
+l1   Pimoroni PiGlow <https://www.adafruit.com/product/1488>
+l2  17 IN STOCK
+l1   Pibow Coupé - Enclosure for Raspberry Pi 2 / B+ / Pi 3 
+<https://www.adafruit.com/product/2083>
+l2  84 IN STOCK
+l1   Pimoroni Skywriter HAT - 3D Gesture Sensor for Raspberry Pi 
+<https://www.adafruit.com/product/2325>
+l2  8 IN STOCK
+l1   HiFiBerry DAC+ HAT - Standard RCA <https://www.adafruit.com/product/2901>
+l2  41 IN STOCK
+l1   10.1" Display & Audio 1280x800 IPS - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1694>
+l2  14 IN STOCK
+l1   Adafruit GPIO Reference Card for Raspberry Pi Model B 
+<https://www.adafruit.com/product/2262>
+l2  47 IN STOCK
+l1   The Raspberry Leaf (Three Pack) <https://www.adafruit.com/product/1772>
+l2  5 IN STOCK
+l1   Rainbow Pibow - Enclosure for Raspberry Pi 2 / Model B+/ Pi 3 
+<https://www.adafruit.com/product/2084>
+l2  27 IN STOCK
+l1   Raspberry Pi Arcade Cabinet Pack <https://www.adafruit.com/product/3272>
+l2  21 IN STOCK
+l1   Pimoroni Piano HAT <https://www.adafruit.com/product/2695>
+l2  49 IN STOCK
+l1   AV (NTSC or PAL) to HDMI (720p or 1080p) Video and Audio Adapter 
+<https://www.adafruit.com/product/3378>
+l2  34 IN STOCK
+l1   Pi Powered Times Square Traveler Pack <https://www.adafruit.com/product/3273>
+l2  38 IN STOCK
+l1   Pimoroni OmniVESA <https://www.adafruit.com/product/2425>
+l2  47 IN STOCK
+l1   Ninja Pibow - Enclosure for Raspberry Pi Model B+ / Pi 2 / Pi 3 
+<https://www.adafruit.com/product/2081>
+l2  72 IN STOCK
+l1   Adafruit Pi Dish for Raspberry Pi - Includes Breadboard 
+<https://www.adafruit.com/product/942>
+l2  36 IN STOCK
+l1   Raspberry Pi Cookbook by Simon Monk - Second Edition 
+<https://www.adafruit.com/product/2274>
+l2  47 IN STOCK
+l1   GPIO Extender Cable for Raspberry Pi Model A/B - 26pin 12" long 
+<https://www.adafruit.com/product/1337>
+l2  7 IN STOCK
+l1   PS/2 Keyboard+Mouse to USB adapter <https://www.adafruit.com/product/971>
+l2  64 IN STOCK
+l1   3.5mm Stereo to RCA (Composite Audio) Cable 6 feet 
+<https://www.adafruit.com/product/1013>
+l2  45 IN STOCK
+l1   HDMI 4 Pi: 7" Display & Audio 1024x600 w/Touchscreen 
+<https://www.adafruit.com/product/2397>
+l2  7 IN STOCK
+l1   Pimoroni Unicorn Hat - 8x8 RGB LED Shield for Raspberry Pi A+/B+ 
+<https://www.adafruit.com/product/2288>
+l2  62 IN STOCK
+l1   Raspberry Pi DIY Camera Pack <https://www.adafruit.com/product/3275>
+l2  100 IN STOCK
+l1   HDMI 4 Pi: 7" Display no Touchscreen 800x480 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1934>
+l2  14 IN STOCK
+l1   Slim HDMI Cable - 914mm / 3 feet long <https://www.adafruit.com/product/2421>
+l2  61 IN STOCK
+l1   HDMI 4 Pi 5" Display not Touchscreen 800x480 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/1678>
+l2  9 IN STOCK
+l1   Bare Conductive Pi Cap <https://www.adafruit.com/product/3224>
+l2  10 IN STOCK
+l1   HDMI 4 Pi: 5" Display (w/Touch) 800x480 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/2110>
+l2  6 IN STOCK
+l1   Adventures in Raspberry Pi - Second Edition 
+<https://www.adafruit.com/product/1745>
+l2  10 IN STOCK
+l1   HDMI 4 Pi: 7" Display (no Touch) w/Mini Driver - 800x480 HDMI 
+<https://www.adafruit.com/product/1933>
+l2  4 IN STOCK
+l1   Pi-Top - GREY - A Laptop Kit for Raspberry Pi B+ / Pi 2 / Pi 3 
+<https://www.adafruit.com/product/3116>
+l2  25 IN STOCK
+l1   SmartiPi Kit - LEGO® Compatible Case for Raspberry Pi B+ / Pi 2 - Gray 
+<https://www.adafruit.com/product/2447>
+l2  25 IN STOCK
+l1   Cupcade: the Raspberry Pi-Powered Micro Arcade Cabinet Kit - v1.0 
+<https://www.adafruit.com/product/1783>
+l2  6 IN STOCK
+l1   Raspberry Pi User Guide by Eben Upton and Gareth Halfacree - 4th Edition 
+<https://www.adafruit.com/product/1053>
+l2  31 IN STOCK
+l1   Adafruit Pi Box - Enclosure for Raspberry Pi Model A or B 
+<https://www.adafruit.com/product/859>
+l2  33 IN STOCK
+l1   Pi GPIO Reference Board for Raspberry Pi Model B 
+<https://www.adafruit.com/product/1432>
+l2  47 IN STOCK
+l1   Pi-Top - GREEN - A Laptop Kit for Raspberry Pi B+ / Pi 2 / Pi 3 
+<https://www.adafruit.com/product/3065>
+l2  61 IN STOCK
+l1   4GB SD Card for Raspberry Pi preinstalled with RaspBMC (XBMC) 
+<https://www.adafruit.com/product/1562>
+l2  6 IN STOCK
+l1   RCA (Composite Video, Audio) Cable 6 feet 
+<https://www.adafruit.com/product/863>
+l2  40 IN STOCK
+l1   Raspberry Pi 1 Model B+ Starter Pack - Includes a Raspberry Pi 1 
+<https://www.adafruit.com/product/2125>
+l2  35 IN STOCK
+l1   NTSC/PAL (Television) TFT Display - 7" Diagonal 
+<https://www.adafruit.com/product/947>
+l2  6 IN STOCK
+l1   Pimoroni Drum HAT <https://www.adafruit.com/product/3180>
+l2  14 IN STOCK
+l1   4GB SD card for Raspberry Pi preinstalled with Coder v.9 
+<https://www.adafruit.com/product/1537>
+l2  7 IN STOCK
+l1   Pibow Royale - Enclosure for Raspberry Pi Model A+ Computers 
+<https://www.adafruit.com/product/2296>
+l2  67 IN STOCK
+l1   HDMI 4 Pi: 7" Display & Audio 1024x600 - HDMI/VGA/NTSC/PAL 
+<https://www.adafruit.com/product/2301>
+l2  14 IN STOCK
+l1   AstroPrint 3D Printing Software for Raspberry Pi - Micro SD card 
+<https://www.adafruit.com/product/2393>
+l2  5 IN STOCK
+l1   Raspberry Pi Media Center Kit - For Pi2 or Pi3 - No Pi Included 
+<https://www.adafruit.com/product/3114>
+l2  96 IN STOCK
+l1   Adventures in Minecraft <https://www.adafruit.com/product/3348>
+l2  11 IN STOCK
+l1   AstroBox pack - Includes Raspberry Pi 2, Model B 
+<https://www.adafruit.com/product/2391>
+l2  5 IN STOCK
+l1   Raspberry Pi 1 Model B Starter Pack - Includes a Raspberry Pi 
+<https://www.adafruit.com/product/1014>
+l2  7 IN STOCK
+l1   CODER Pack for Raspberry Pi 2 Model B <https://www.adafruit.com/product/1538>
+l2  7 IN STOCK
+l1   The MagPi - Issue 28 <https://www.adafruit.com/product/2644>
+l2  2 IN STOCK
+l1   Ninja Pibow - Enclosure for Raspberry Pi Model B Computers 
+<https://www.adafruit.com/product/1124>
+l2  63 IN STOCK
+l1   4GB Card with NOOBS Lite 1.4 <https://www.adafruit.com/product/1582>
+l2  65 IN STOCK
+l1   Raspberry Pi Model A+ Case Lid - Clear <https://www.adafruit.com/product/2362>
+l2  92 IN STOCK
+l1   The MagPi - Issue 12 <https://www.adafruit.com/product/1702>
+l2  4 IN STOCK
+l1   The MagPi - Issue 26 <https://www.adafruit.com/product/2642>
+l2  10 IN STOCK
+l1   Modela Ninja Pibow - Enclosure for Raspberry Pi Model A Computer 
+<https://www.adafruit.com/product/1319>
+l2  74 IN STOCK
+l1   The MagPi - Issue 27 <https://www.adafruit.com/product/2643>
+l2  23 IN STOCK
+l1   Raspberry Pi Model B starter pack Doesn't include Raspberry Pi 1 
+<https://www.adafruit.com/product/955>
+l2  15 IN STOCK
+l1   C4Labs Bel-Aire Case - Enclosure for Raspberry Pi 2 & Model B+ 
+<https://www.adafruit.com/product/2710>
+l2  20 IN STOCK
+l1   The MagPi - Issue 13 <https://www.adafruit.com/product/1703>
+l2  6 IN STOCK
+l1   The MagPi - Issue 10 <https://www.adafruit.com/product/1711>
+l2  1 IN STOCK
+l1   The MagPi - Issue 11 <https://www.adafruit.com/product/1701>
+l2  3 IN STOCK
+l1   The MagPi - Issue 18 <https://www.adafruit.com/product/1707>
+l2  30 IN STOCK
+l1   The MagPi - Issue 23 <https://www.adafruit.com/product/2639>
+l2  30 IN STOCK
+l1   The MagPi - Issue 24 <https://www.adafruit.com/product/2640>
+l2  27 IN STOCK
+l1   The MagPi - Issue 25 <https://www.adafruit.com/product/2641>
+l2  6 IN STOCK
+l1   Budget Pack for Raspberry Pi 1 Model B (Doesn't include RasPi) 
+<https://www.adafruit.com/product/965>
+l2  11 IN STOCK
+l1   Kano Computer Kit with Raspberry Pi 3 <https://www.adafruit.com/product/3257>
+l2  44 IN STOCK
+l1   Kano Screen Kit <https://www.adafruit.com/product/3256>
+l2  41 IN STOCK
