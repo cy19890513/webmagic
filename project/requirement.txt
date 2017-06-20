@@ -1,0 +1,7 @@
+This project is created for scrape data from a hardware ecommerce website. 
+
+Challenge: Build a web crawler to find the best sellers products in website https://www.adafruit.com/categories and show these best sellers in a web application.
+
+Hint: 
+The well-seller product: less than 100 units in stock, shown on the page like "70 in stock". 
+The common product: more than 100 units in stock, shown on the page just "in stock".

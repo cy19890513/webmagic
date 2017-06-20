@@ -19,12 +19,11 @@ import us.codecraft.webmagic.selector.Selectable;
 /**
  * @author code4crafer@gmail.com
  */
-public class AlexanderMcqueenGoodsProcessor implements PageProcessor {
+public class AdaFruitProcessor implements PageProcessor {
     private Site site = Site.me().setRetryTimes(3).setSleepTime(0);
 
-    public static final String URL_LIST = "https://www\\.adafruit\\.com/.*";
-    public static final String URL_POST = "https://www\\.adafruit\\.com/.*";
-    
+    public static final String URL_LIST = "https://www\\.adafruit\\.com/categories/.*";
+    public static final String URL_POST = "https://www\\.adafruit\\.com/categories/.*";
     
     
     @Override
