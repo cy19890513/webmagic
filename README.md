@@ -16,6 +16,8 @@ The common product: more than 100 units in stock, shown on the page just "in sto
 
 ![image2](../master/project/image2.png)
 
+Result:
+![resultCapture](../master/project/resultCapture.png)
 
 The implementation is [here](../master/webmagic-samples/src/main/java/us/codecraft/webmagic/samples/AdaFruitProcessor.java)
 
